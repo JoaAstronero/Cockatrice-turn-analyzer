@@ -1,30 +1,41 @@
-# Tontis — Turn Analyzer (SPA)
+# cockatrice-turn-analizer
 
-Proyecto inicial: SPA con React + Vite para pegar logs y calcular estadísticas de turnos por jugador.
+Small SPA to analyze player turn durations from Cockatrice/Tontis logs. Paste or upload a log and get per-player stats, outlier detection and visual timelines.
 
-Principales características:
+Main features
 
-- Bibliotecas: React, Vite, Bootstrap, Chart.js (react-chartjs-2)
-- Módulo `src/lib/turns.js` con la lógica de parsing y cálculo exportada (ESM) para uso en frontend o backend.
+- React + Vite single-page app
+- Charting with Chart.js (react-chartjs-2)
+- Shared parsing/stats module in `src/lib/turns.js`
 
-Cómo usar localmente:
+Quick start
 
-1. Instalar dependencias:
+1. Install dependencies
 
 ```powershell
 npm install
 ```
 
-2. Levantar servidor de desarrollo:
+2. Start the dev server
 
 ```powershell
 npm run dev
 ```
 
-3. Abrir en el navegador la URL que indique Vite (normalmente http://localhost:5173)
+3. Open the URL shown by Vite (usually http://localhost:5173)
 
-Siguientes mejoras:
+Build for production
 
-- Soporte para subir archivos en lugar de pegar
-- Guardado de partidas (mini fullstack con SQLite + Express)
-- Tests unitarios para `src/lib/turns.js`
+```powershell
+npm run build
+```
+
+Deployment
+
+See `README_DEPLOY_FIREBASE.md` for Firebase Hosting deployment instructions.
+
+Notes
+
+- Default font: Roboto.
+- Use the light/dark toggle on the top-right to switch palettes.
+- Tests: a small Vitest test exists for parsing across midnight (`test/turns.spec.js`).

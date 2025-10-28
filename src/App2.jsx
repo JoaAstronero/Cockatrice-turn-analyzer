@@ -35,7 +35,7 @@ export default function App() {
 
   return (
     <div className="container py-4">
-      <h1 className="mb-3">Tontis — Analizador de turnos</h1>
+      <h1 className="mb-3">cockatrice-turn-analizer — Analizador de turnos</h1>
 
       <div className="mb-4 controls-row">
         <div>
