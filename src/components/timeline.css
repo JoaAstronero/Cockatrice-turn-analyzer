@@ -1,0 +1,127 @@
+.timeline-root {
+  background: var(--card-bg);
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+.timeline-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.timeline-label {
+  width: 120px;
+  font-weight: 600;
+}
+.timeline-bar {
+  flex: 1;
+  height: 18px;
+  position: relative;
+  background: rgba(0, 0, 0, 0.04);
+  border-radius: 6px;
+}
+.timeline-seg {
+  position: absolute;
+  height: 100%;
+  border-radius: 4px;
+}
+
+.timeline-axis {
+  position: relative;
+  height: 30px;
+  margin-top: 6px;
+}
+.timeline-axis-line {
+  position: absolute;
+  left: 120px; /* align with label column */
+  right: 0;
+  top: 12px;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.08);
+}
+.timeline-tick {
+  position: absolute;
+  top: 0;
+  transform: translateX(-50%);
+  width: 1px;
+  text-align: center;
+}
+.timeline-tick-mark {
+  width: 2px;
+  height: 8px;
+  background: rgba(0, 0, 0, 0.2);
+  margin: 0 auto 2px auto;
+}
+.timeline-tick-label {
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+.timeline-legend .legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Global consolidated timeline bar */
+.global-bar {
+  position: relative;
+}
+.global-seg {
+  position: absolute;
+  height: 100%;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+.cluster-seg {
+  display: flex;
+}
+.cluster-seg small {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+/* Compact mode: make segments more visible and reduce vertical gaps */
+.timeline-root.compact {
+  padding: 8px;
+}
+.timeline-root.compact .timeline-bar {
+  height: 28px;
+}
+.timeline-root.compact .timeline-row {
+  margin-bottom: 6px;
+}
+.timeline-root.compact .timeline-label {
+  width: 100px;
+}
+.timeline-root.compact .timeline-seg {
+  height: 100%;
+  border-radius: 2px;
+}
+
+.timeline-tooltip {
+  position: absolute;
+  z-index: 60;
+  background: var(--card-bg);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 8px 10px;
+  border-radius: 6px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  font-size: 0.85rem;
+  pointer-events: none;
+  transform: translate(-50%, -120%);
+  min-width: 120px;
+}
+
+.timeline-legend .legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.timeline-legend input[type="color"] {
+  width: 28px;
+  height: 22px;
+  padding: 0;
+  border: none;
+  background: transparent;
+}

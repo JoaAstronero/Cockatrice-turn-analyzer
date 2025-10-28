@@ -1,0 +1,231 @@
+body {
+  background: #f8f9fa;
+}
+.container {
+  max-width: 1100px;
+}
+:root {
+  /* Paleta de colores parametrizable */
+  --text: #212529;
+  --background: #f8f9fa;
+  --primary: #0d6efd; /* blue */
+  --secondary: #6c757d; /* gray */
+  --accent: #20c997; /* green */
+  --danger: #dc3545;
+  --success: #198754;
+  --card-bg: #ffffff;
+  --muted: #6c757d;
+  --font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  background: var(--background);
+  color: var(--text);
+  font-family: var(--font-family);
+}
+.container {
+  max-width: 1100px;
+}
+textarea.form-control {
+  font-family: monospace;
+}
+
+/* Override Bootstrap components to use our CSS vars where necessary */
+.btn-primary {
+  background-color: var(--bs-btn-bg) !important;
+  color: var(--bs-btn-color) !important;
+  border-color: var(--bs-btn-bg) !important;
+  background-image: none !important;
+  box-shadow: none !important;
+}
+.btn-outline-secondary {
+  color: var(--text) !important;
+  border-color: var(--secondary) !important;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  filter: brightness(0.95);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+.form-control,
+textarea.form-control {
+  background: var(--bs-form-control-bg) !important;
+  color: var(--bs-form-control-color) !important;
+  border-color: var(--bs-form-control-border-color) !important;
+}
+.nav-tabs .nav-link {
+  color: var(--bs-nav-link-color) !important;
+  background-color: transparent !important;
+  background-image: none !important;
+}
+.nav-tabs .nav-link.active {
+  background: var(--card-bg) !important;
+  color: var(--bs-btn-color) !important;
+}
+
+/* Force primary button variants (outline, hover, active) to use theme colors */
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.disabled,
+.btn-primary:disabled {
+  background-color: var(--bs-btn-bg) !important;
+  color: var(--bs-btn-color) !important;
+  border-color: var(--bs-btn-bg) !important;
+  background-image: none !important;
+}
+
+/* Fix nav link default blue (bootstrap sets color on .nav-link) */
+.nav-tabs .nav-link,
+.nav-pills .nav-link {
+  color: var(--text) !important;
+}
+.nav-tabs .nav-link.active,
+.nav-pills .nav-link.active {
+  color: var(--bs-btn-color) !important;
+  background-color: var(--bs-btn-bg) !important;
+}
+
+/* Style file input to look like a themed button + filename text */
+input[type="file"] {
+  display: inline-block;
+  padding: 6px 10px;
+  background: var(--bs-btn-bg);
+  color: var(--bs-btn-color);
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+}
+input[type="file"]:hover {
+  filter: brightness(0.97);
+}
+
+/* Make nav tab buttons more button-like and visible in dark themes */
+.nav-tabs .nav-link {
+  background: transparent !important;
+  border: 1px solid transparent;
+  border-bottom: none;
+  padding: 8px 12px;
+  margin-right: 6px;
+  border-radius: 6px 6px 0 0;
+}
+.nav-tabs .nav-link.active {
+  background: var(--bs-btn-bg) !important;
+  color: var(--bs-btn-color) !important;
+  border-color: rgba(0, 0, 0, 0.06) !important;
+}
+
+/* Ensure small control elements like the analyze button are high-contrast */
+.controls-row .btn-primary {
+  background: var(--bs-btn-bg) !important;
+  color: var(--bs-btn-color) !important;
+}
+
+/* Force table and accordion text to follow theme --text */
+.table,
+.table th,
+.table td,
+.table thead th {
+  color: var(--text) !important;
+}
+
+/* Accordion (bootstrap) overrides */
+.accordion-button {
+  color: var(--text) !important;
+  background: var(--card-bg) !important;
+}
+.accordion-button:not(.collapsed) {
+  color: var(--bs-btn-color) !important;
+  background: var(--card-bg) !important;
+}
+.accordion-body {
+  color: var(--text) !important;
+  background: transparent !important;
+}
+
+/* Tabs: ensure inactive/hover states also readable */
+.nav-tabs .nav-link:hover {
+  color: var(--bs-btn-color) !important;
+}
+
+/* Small misc: ensure list-group and card texts follow theme */
+.list-group-item,
+.card,
+.card * {
+  color: var(--text) !important;
+}
+
+.player-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+.player-card {
+  background: var(--card-bg);
+  border-radius: 8px;
+  padding: 12px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  border-left: 6px solid var(--secondary);
+}
+.player-card .player-name {
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+.player-stat {
+  font-size: 0.95rem;
+}
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.legend-swatch {
+  width: 18px;
+  height: 14px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.controls-row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* Theme toggle styles */
+.theme-toggle {
+  display: inline-block;
+}
+.theme-toggle input { display:none }
+.theme-toggle label { display:inline-block; cursor:pointer }
+.theme-toggle .toggle-track {
+  width: 56px; height: 28px; background: rgba(0,0,0,0.15);
+  display:block; border-radius: 20px; position: relative; transition: background .2s
+}
+.theme-toggle .toggle-track:after {
+  content: ""; position: absolute; left:4px; top:4px; width:20px; height:20px; border-radius:50%; background:#fff; transition: transform .2s;
+}
+/* when checked move thumb and change background using CSS variable */
+#themeToggle:checked + label .toggle-track { background: var(--bs-btn-bg); }
+#themeToggle:checked + label .toggle-track:after { transform: translateX(28px); }
+
+.small-muted {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+/* responsive tweaks */
+@media (max-width: 600px) {
+  .player-card {
+    padding: 10px;
+  }
+}
+textarea.form-control {
+  font-family: monospace;
+}

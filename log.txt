@@ -1,0 +1,2254 @@
+[21:44:35] Rockysaurus has loaded a deck with 1 sideboard cards (9amdak5o).
+[21:45:35] Rockysaurus is ready to start the game.
+[21:46:13] Chamomi has joined the game.
+[21:48:27] AmeisingEO has joined the game.
+[21:48:34] AmeisingEO has loaded a deck with 0 sideboard cards (qka1qk89).
+[21:48:39] AmeisingEO is ready to start the game.
+[21:49:48] Chamomi has loaded a deck with 1 sideboard cards (g8955rrt).
+[21:49:50] Chamomi is ready to start the game.
+[21:52:47] Astronero has loaded a deck with 2 sideboard cards (10k9i9lb).
+[21:52:50] Astronero is ready to start the game.
+[21:52:50] The game has started.
+
+[21:52:50] Astronero's turn.
+
+[21:52:50] Untap
+[21:52:51] Astronero is looking at their sideboard.
+[21:52:52] Astronero puts Cormela, Glamour Thief into play from sideboard.
+[21:52:56] Astronero shuffles their deck and draws a new hand of 7 card(s).
+[21:53:06] Chamomi sets counter Life to 40 (0).
+[21:53:07] Chamomi rolls a 11 with a 20-sided die.
+[21:53:08] AmeisingEO is looking at their library.
+[21:53:09] Chamomi shuffles their deck and draws a new hand of 7 card(s).
+[21:53:11] AmeisingEO plays Marneus Calgar from their library.
+[21:53:11] Chamomi sets counter Life to 41 (+1).
+[21:53:12] Chamomi sets counter Life to 42 (+1).
+[21:53:12] AmeisingEO shuffles their library.
+[21:53:12] Chamomi sets counter Life to 41 (-1).
+[21:53:13] Chamomi sets counter Life to 42 (+1).
+[21:53:14] AmeisingEO puts Marneus Calgar into play from the stack.
+[21:53:14] Rockysaurus is looking at their sideboard.
+[21:53:16] Rockysaurus puts Zurgo Helmsmasher into play from sideboard.
+[21:53:16] Chamomi is looking at their sideboard.
+[21:53:18] Chamomi puts Shroofus Sproutsire into play from sideboard.
+[21:53:20] AmeisingEO draws 1 card(s).
+[21:53:22] Rockysaurus rolls a 1 with a 20-sided die.
+[21:53:23] Astronero shuffles their deck and draws a new hand of 7 card(s).
+[21:53:23] AmeisingEO puts a card from their hand on top of their library.
+[21:53:28] AmeisingEO draws 7 card(s).
+[21:53:30] Rockysaurus shuffles their deck and draws a new hand of 7 card(s).
+[21:53:30] Astronero shuffles their deck and draws a new hand of 7 card(s).
+[21:53:38] Astronero rolls a 16 with a 20-sided die.
+[21:53:52] AmeisingEO rolls a 6 with a 20-sided die.
+[21:53:59] Astronero puts Soulfire Eruption into play from their hand.
+[21:54:13] Astronero puts Soulfire Eruption from play onto the bottom of their library.
+[21:54:38] Astronero draws 1 card(s).
+[21:54:47] Astronero puts Luxury Suite into play from their hand.
+[21:54:48] Astronero taps Luxury Suite.
+[21:54:48] Astronero puts Sol Ring into play from their hand.
+[21:54:49] Astronero taps Sol Ring.
+[21:54:50] Astronero puts Izzet Signet into play from their hand.
+
+[21:54:51] Rockysaurus's turn.
+
+[21:54:51] Untap
+[21:54:57] Rockysaurus moves Vault of Champions from the top of their library to their hand.
+[21:55:02] Rockysaurus puts Savai Triome into play from their hand.
+[21:55:03] Rockysaurus taps Savai Triome.
+
+[21:55:05] Chamomi's turn.
+
+[21:55:05] Untap
+[21:55:07] Chamomi moves the top card of their library to their hand.
+[21:55:08] Chamomi puts Forest into play from their hand.
+[21:55:09] Chamomi taps Forest.
+[21:55:11] Chamomi puts Birds of Paradise into play from their hand.
+
+[21:55:14] AmeisingEO's turn.
+
+[21:55:14] Untap
+[21:55:19] AmeisingEO draws 1 card(s).
+[21:55:27] AmeisingEO puts Plains into play from their hand.
+[21:55:35] AmeisingEO puts Skullclamp into play from their hand.
+[21:55:36] AmeisingEO taps Plains.
+
+[21:55:42] Astronero's turn.
+
+[21:55:42] Untap
+[21:55:44] Astronero untaps their permanents.
+[21:55:44] Astronero untaps their permanents.
+[21:55:45] Astronero draws 1 card(s).
+[21:55:51] Astronero taps Sol Ring.
+[21:55:53] Astronero puts Talisman of Indulgence into play from their hand.
+[21:56:00] Astronero puts Mountain into play from their hand.
+[21:56:15] Astronero taps Mountain.
+[21:56:16] Astronero taps Izzet Signet.
+[21:56:18] Astronero taps Luxury Suite.
+[21:56:18] Astronero taps Talisman of Indulgence.
+
+[21:56:40] Rockysaurus's turn.
+
+[21:56:40] Untap
+[21:56:44] Rockysaurus untaps their permanents.
+[21:56:47] Rockysaurus moves Dragonskull Summit from the top of their library to their hand.
+[21:56:53] Rockysaurus puts Vault of Champions into play from their hand.
+[21:56:55] Rockysaurus taps Savai Triome.
+[21:56:55] Rockysaurus taps Vault of Champions.
+[21:56:59] Rockysaurus puts Orzhov Signet into play from their hand.
+
+[21:57:01] Chamomi's turn.
+
+[21:57:01] Untap
+[21:57:05] Chamomi untaps Forest.
+[21:57:06] Upkeep
+[21:57:06] Draw
+[21:57:08] Chamomi moves the top card of their library to their hand.
+[21:57:18] Chamomi puts Forest into play from their hand.
+[21:57:24] Chamomi taps Birds of Paradise.
+[21:57:24] Chamomi taps Forest.
+[21:57:24] Chamomi taps Forest.
+
+[21:57:27] AmeisingEO's turn.
+
+[21:57:27] Untap
+[21:57:31] AmeisingEO untaps their permanents.
+[21:57:32] AmeisingEO draws 1 card(s).
+[21:57:40] AmeisingEO puts Swamp into play from their hand.
+
+[21:57:42] Astronero's turn.
+
+[21:57:42] Untap
+[21:57:48] Astronero untaps their permanents.
+[21:57:48] Astronero untaps their permanents.
+[21:57:49] Astronero draws 1 card(s).
+[21:58:10] Astronero taps Sol Ring.
+[21:58:15] Astronero taps Cormela, Glamour Thief.
+[21:58:21] Astronero plays Bitter Triumph from their hand.
+[21:58:22] Astronero moves Bitter Triumph from the stack to their hand.
+[21:58:23] Astronero plays Irenicus's Vile Duplication from their hand.
+[21:58:31] Astronero points from their Irenicus's Vile Duplication to their Cormela, Glamour Thief.
+[21:58:37] Astronero puts Irenicus's Vile Duplication from the stack into their graveyard.
+[21:58:39] Astronero creates token: Cormela, Glamour Thief (2/4).
+[21:58:50] Astronero sets annotation of Cormela, Glamour Thief to "Flying".
+[21:59:12] Astronero taps Talisman of Indulgence.
+[21:59:13] Astronero taps Cormela, Glamour Thief.
+[21:59:16] Astronero plays Maestros Charm from their hand.
+[21:59:22] Astronero puts Maestros Charm from the stack into their graveyard.
+[21:59:26] Astronero is looking at the top 5 card(s) of their library.
+[22:00:00] Astronero puts Bloodsoaked Insight into play from their library.
+[22:00:02] Astronero puts Quick Study from their library into their graveyard.
+[22:00:02] Astronero puts Sin Prodder from their library into their graveyard.
+[22:00:02] Astronero puts Mizzix's Mastery from their library into their graveyard.
+[22:00:02] Astronero puts Withering Torment from the top of their library into their graveyard.
+[22:00:04] Astronero moves Bloodsoaked Insight from play to their hand.
+[22:00:08] Astronero destroys .
+[22:00:08] Astronero creates token: Sanguine Morass.
+[22:00:10] Astronero taps Sanguine Morass.
+[22:00:14] Astronero taps Luxury Suite.
+[22:00:14] Astronero taps Mountain.
+[22:00:15] Astronero taps Izzet Signet.
+[22:00:16] Astronero plays Silundi Vision from their hand.
+[22:00:23] Astronero puts Silundi Vision from the stack into their graveyard.
+[22:00:27] Astronero is looking at the top 6 card(s) of their library.
+
+[22:00:30] Rockysaurus's turn.
+
+[22:00:30] Untap
+[22:00:33] Rockysaurus untaps their permanents.
+[22:00:34] Rockysaurus moves Ardenn, Intrepid Archaeologist from the top of their library to their hand.
+[22:00:46] Rockysaurus puts Dragonskull Summit into play from their hand.
+[22:00:48] Rockysaurus taps Dragonskull Summit.
+[22:00:48] Rockysaurus taps Savai Triome.
+[22:00:48] Rockysaurus taps Vault of Champions.
+[22:00:49] Rockysaurus taps Orzhov Signet.
+[22:00:50] Rockysaurus puts Raiyuu, Storm's Edge into play from their hand.
+
+[22:01:05] Chamomi's turn.
+
+[22:01:05] Untap
+[22:01:09] Chamomi taps Shroofus Sproutsire.
+[22:01:10] Chamomi untaps Birds of Paradise.
+[22:01:10] Chamomi untaps Forest.
+[22:01:10] Chamomi untaps Forest.
+[22:01:10] Chamomi untaps Shroofus Sproutsire.
+[22:01:11] Upkeep
+[22:01:11] Draw
+[22:01:12] Chamomi moves the top card of their library to their hand.
+[22:01:15] Chamomi puts Forest into play from their hand.
+[22:01:16] Chamomi taps Forest.
+[22:01:17] Chamomi puts Sol Ring into play from their hand.
+[22:01:20] Chamomi taps Forest.
+[22:01:25] Chamomi puts Llanowar Elves into play from their hand.
+[22:01:28] Chamomi taps Forest.
+[22:01:29] Chamomi puts Utopia Sprawl into play from their hand.
+[22:02:01] Chamomi points from their Shroofus Sproutsire to Astronero.
+[22:02:06] Astronero sets counter Life to 39 (-1).
+[22:02:08] Astronero sets counter Green to 1 (+1).
+[22:02:10] Chamomi creates token: Saproling Token (1/1).
+
+[22:02:14] AmeisingEO's turn.
+
+[22:02:14] Untap
+[22:02:15] Chamomi taps Shroofus Sproutsire.
+[22:02:19] AmeisingEO draws 1 card(s).
+[22:02:30] AmeisingEO puts Port Town into play from their hand.
+[22:02:34] AmeisingEO reveals Plains from their hand.
+[22:02:36] Astronero puts Waterlogged Teachings into play from their library.
+[22:02:40] Astronero puts a card from their library onto the bottom of their library.
+[22:02:40] Astronero puts a card from their library onto the bottom of their library.
+[22:02:40] Astronero puts a card from their library onto the bottom of their library.
+[22:02:40] Astronero puts a card from their library onto the bottom of their library.
+[22:02:40] Astronero puts the top card of their library onto the bottom of their library.
+[22:02:40] Astronero shuffles the bottom 5 cards of their library.
+[22:02:43] Astronero moves Waterlogged Teachings from play to their hand.
+[22:02:45] AmeisingEO taps Plains.
+[22:02:46] AmeisingEO taps Swamp.
+[22:02:46] AmeisingEO taps Port Town.
+[22:02:47] AmeisingEO puts Rhystic Study into play from their hand.
+
+[22:02:55] Astronero's turn.
+
+[22:02:55] Untap
+[22:02:56] Astronero untaps their permanents.
+[22:02:56] Astronero untaps their permanents.
+[22:02:57] Astronero draws 1 card(s).
+[22:03:00] Astronero puts Swamp into play from their hand.
+[22:03:21] Astronero taps Sol Ring.
+[22:03:22] Astronero taps Cormela, Glamour Thief.
+[22:03:31] Astronero taps Mountain.
+[22:03:32] Astronero plays Waterlogged Teachings from their hand.
+[22:03:39] Astronero puts Waterlogged Teachings from the stack into their graveyard.
+[22:03:41] Astronero is looking at their library.
+[22:04:14] Astronero moves a card from their library to their hand.
+[22:04:16] Astronero shuffles their library.
+[22:04:19] Astronero puts Elminster's Simulacrum into play from their hand.
+[22:04:31] Chamomi sets counter Life to 41 (-1).
+[22:04:31] Chamomi sets counter Life to 40 (-1).
+[22:04:43] Astronero moves Elminster's Simulacrum from play to their hand.
+
+[22:04:51] Rockysaurus's turn.
+
+[22:04:51] Untap
+[22:05:01] Rockysaurus untaps their permanents.
+[22:05:03] Rockysaurus moves Cranial Plating from the top of their library to their hand.
+[22:05:10] Rockysaurus puts Plains into play from their hand.
+[22:05:11] Rockysaurus taps Dragonskull Summit.
+[22:05:11] Rockysaurus taps Savai Triome.
+[22:05:11] Rockysaurus taps Vault of Champions.
+[22:05:11] Rockysaurus taps Plains.
+[22:05:12] Rockysaurus taps Orzhov Signet.
+[22:05:30] AmeisingEO draws 1 card(s).
+[22:06:34] Astronero puts Elminster's Simulacrum into play from their hand.
+[22:06:38] Astronero moves Elminster's Simulacrum from play to their hand.
+[22:06:40] Rockysaurus points from their Zurgo Helmsmasher to Astronero.
+[22:06:49] Rockysaurus taps Zurgo Helmsmasher.
+[22:06:51] Astronero taps Talisman of Indulgence.
+[22:06:52] Astronero taps Izzet Signet.
+[22:06:53] Astronero taps Cormela, Glamour Thief.
+[22:06:59] Astronero taps Swamp.
+[22:07:00] Astronero taps Luxury Suite.
+[22:07:03] Astronero plays Elminster's Simulacrum from their hand.
+[22:07:16] Astronero creates token: Zurgo Helmsmasher (7/2).
+[22:07:17] Rockysaurus creates token: Zurgo Helmsmasher (7/2).
+[22:07:20] Rockysaurus destroys Zurgo Helmsmasher.
+[22:07:38] Astronero taps Sanguine Morass.
+[22:08:00] Astronero creates token: Llanowar Elves (1/1).
+[22:08:01] Astronero points from their Llanowar Elves to Rockysaurus's Zurgo Helmsmasher.
+[22:08:06] Rockysaurus changes the PT of Zurgo Helmsmasher from 7/2 to 8/3.
+[22:08:06] Astronero puts Elminster's Simulacrum from the stack into their graveyard.
+[22:08:10] Rockysaurus untaps Zurgo Helmsmasher.
+[22:08:12] Astronero destroys Llanowar Elves.
+[22:08:35] Rockysaurus points from their Zurgo Helmsmasher to AmeisingEO.
+[22:08:41] Rockysaurus taps Zurgo Helmsmasher.
+[22:08:44] AmeisingEO sets counter Life to 32 (-8).
+[22:08:49] AmeisingEO sets counter White to 1 (+1).
+[22:08:49] AmeisingEO sets counter White to 2 (+1).
+[22:08:49] AmeisingEO sets counter White to 3 (+1).
+[22:08:49] AmeisingEO sets counter White to 4 (+1).
+[22:08:50] AmeisingEO sets counter White to 5 (+1).
+[22:08:50] AmeisingEO sets counter White to 6 (+1).
+[22:08:50] AmeisingEO sets counter White to 7 (+1).
+[22:08:51] AmeisingEO sets counter White to 8 (+1).
+
+[22:08:54] Chamomi's turn.
+
+[22:08:54] Untap
+[22:08:56] Chamomi untaps Shroofus Sproutsire.
+[22:08:57] Chamomi untaps Forest.
+[22:08:58] Chamomi untaps Forest.
+[22:08:58] Chamomi untaps Forest.
+[22:09:01] Chamomi moves the top card of their library to their hand.
+[22:09:04] Chamomi puts Forest into play from their hand.
+[22:09:32] Chamomi puts Invigorate into play from their hand.
+[22:09:34] Chamomi taps Forest.
+[22:09:35] Chamomi taps Forest.
+[22:09:36] Chamomi taps Forest.
+[22:09:38] Chamomi untaps Forest.
+[22:09:39] Chamomi taps Sol Ring.
+[22:09:51] Chamomi taps Forest.
+[22:09:55] Chamomi untaps Forest.
+[22:10:07] Chamomi points from their Shroofus Sproutsire to AmeisingEO.
+[22:10:17] AmeisingEO sets counter Life to 27 (-5).
+[22:10:23] Chamomi taps Shroofus Sproutsire.
+
+[22:10:24] AmeisingEO's turn.
+
+[22:10:24] Untap
+[22:10:26] AmeisingEO untaps their permanents.
+[22:10:28] AmeisingEO draws 1 card(s).
+[22:10:28] Chamomi places 5 red counter(s) on Saproling Token (now 5).
+[22:10:33] Chamomi places 1 red counter(s) on Saproling Token (now 6).
+[22:10:40] AmeisingEO puts Meticulous Archive into play from their hand.
+[22:10:40] AmeisingEO taps Meticulous Archive.
+[22:10:43] Chamomi plays Invigorate from play.
+[22:10:44] Chamomi exiles Invigorate from the stack.
+[22:10:59] AmeisingEO is looking at the top 1 card(s) of their library.
+[22:11:13] AmeisingEO is looking at the top 1 card(s) of their library.
+[22:11:15] AmeisingEO puts Talisman of Progress from the top of their library into their graveyard.
+[22:11:19] AmeisingEO taps Plains.
+[22:11:20] AmeisingEO taps Swamp.
+[22:11:20] AmeisingEO taps Port Town.
+[22:11:22] AmeisingEO puts Oketra's Monument into play from their hand.
+
+[22:11:35] Astronero's turn.
+
+[22:11:35] Untap
+[22:11:37] Astronero untaps their permanents.
+[22:11:37] Astronero untaps their permanents.
+[22:11:41] Astronero draws 1 card(s).
+[22:11:45] Astronero puts Fabled Passage into play from their hand.
+[22:11:59] Astronero puts Fabled Passage from play into their graveyard.
+[22:12:01] Astronero is looking at their library.
+[22:12:02] Astronero puts Island into play from their library.
+[22:12:03] Astronero shuffles their library.
+[22:12:20] Astronero taps Zurgo Helmsmasher.
+[22:13:21] AmeisingEO sets counter Green to 1 (+1).
+[22:13:22] AmeisingEO sets counter Green to 2 (+1).
+[22:13:22] AmeisingEO sets counter Green to 3 (+1).
+[22:13:22] AmeisingEO sets counter Green to 4 (+1).
+[22:13:23] AmeisingEO sets counter Green to 5 (+1).
+[22:13:32] AmeisingEO sets counter Green to 4 (-1).
+[22:13:32] AmeisingEO sets counter Green to 3 (-1).
+[22:13:32] AmeisingEO sets counter Green to 2 (-1).
+[22:13:33] AmeisingEO sets counter Green to 1 (-1).
+[22:13:33] AmeisingEO sets counter Green to 0 (-1).
+[22:14:14] Astronero points from their Zurgo Helmsmasher to Rockysaurus.
+[22:14:18] Rockysaurus sets counter Life to 39 (-1).
+[22:14:18] Rockysaurus sets counter Life to 38 (-1).
+[22:14:19] Rockysaurus sets counter Life to 37 (-1).
+[22:14:19] Rockysaurus sets counter Life to 36 (-1).
+[22:14:19] Rockysaurus sets counter Life to 35 (-1).
+[22:14:20] Rockysaurus sets counter Life to 34 (-1).
+[22:14:21] Rockysaurus sets counter Life to 33 (-1).
+
+[22:14:26] Rockysaurus's turn.
+
+[22:14:26] Untap
+[22:14:29] Rockysaurus untaps their permanents.
+[22:14:31] Rockysaurus moves Swords to Plowshares from the top of their library to their hand.
+[22:15:05] Rockysaurus puts Plains into play from their hand.
+[22:15:08] Rockysaurus taps Dragonskull Summit.
+[22:15:09] Rockysaurus taps Savai Triome.
+[22:15:11] Rockysaurus taps Orzhov Signet.
+[22:15:11] Rockysaurus taps Vault of Champions.
+[22:15:12] Rockysaurus untaps Savai Triome.
+[22:15:21] Rockysaurus puts Danitha Capashen, Paragon into play from their hand.
+[22:15:31] Rockysaurus taps Plains.
+[22:15:34] Rockysaurus untaps Plains.
+[22:15:45] Rockysaurus taps Plains.
+[22:16:18] Rockysaurus taps Zurgo Helmsmasher.
+[22:16:19] Rockysaurus points from their Zurgo Helmsmasher to Chamomi.
+[22:16:26] Chamomi removes 1 red counter(s) from Saproling Token (now 5).
+[22:16:28] Rockysaurus untaps Zurgo Helmsmasher.
+[22:16:29] Rockysaurus changes the PT of Zurgo Helmsmasher from 8/3 to 9/4.
+[22:16:37] Chamomi removes 1 red counter(s) from Saproling Token (now 4).
+[22:17:01] Rockysaurus changes the PT of Zurgo Helmsmasher from 9/4 to 10/5.
+[22:17:02] Rockysaurus taps Zurgo Helmsmasher.
+
+[22:17:03] Chamomi's turn.
+
+[22:17:03] Untap
+[22:17:06] Chamomi taps Birds of Paradise.
+[22:17:06] Chamomi taps Forest.
+[22:17:06] Chamomi taps Utopia Sprawl.
+[22:17:06] Chamomi taps Forest.
+[22:17:06] Chamomi taps Llanowar Elves.
+[22:17:07] Chamomi untaps Birds of Paradise.
+[22:17:07] Chamomi untaps Forest.
+[22:17:07] Chamomi untaps Forest.
+[22:17:07] Chamomi untaps Forest.
+[22:17:07] Chamomi untaps Utopia Sprawl.
+[22:17:07] Chamomi untaps Forest.
+[22:17:07] Chamomi untaps Llanowar Elves.
+[22:17:07] Chamomi untaps Shroofus Sproutsire.
+[22:17:07] Chamomi untaps Sol Ring.
+[22:17:08] Upkeep
+[22:17:08] Draw
+[22:17:10] Chamomi moves the top card of their library to their hand.
+[22:17:55] Chamomi points from their Saproling Token to their Shroofus Sproutsire.
+[22:18:05] Chamomi points from their Shroofus Sproutsire to AmeisingEO.
+[22:18:05] Chamomi points from their Llanowar Elves to AmeisingEO.
+[22:18:05] Chamomi points from their Saproling Token to AmeisingEO.
+[22:18:24] AmeisingEO sets counter Life to 22 (-5).
+[22:18:42] Chamomi places 5 red counter(s) on Saproling Token (now 9).
+[22:18:47] Chamomi sets counter White to 1 (+1).
+[22:18:48] Chamomi sets counter White to 2 (+1).
+[22:18:48] Chamomi sets counter White to 3 (+1).
+[22:18:48] Chamomi sets counter White to 4 (+1).
+[22:19:00] Chamomi taps Forest.
+[22:19:00] Chamomi taps Forest.
+[22:19:01] Rockysaurus untaps Zurgo Helmsmasher.
+[22:19:01] Chamomi taps Forest.
+[22:19:02] Chamomi taps Llanowar Elves.
+[22:19:03] Chamomi untaps Llanowar Elves.
+[22:19:04] Chamomi taps Forest.
+[22:19:05] Chamomi puts Fecundity into play from their hand.
+
+[22:19:15] AmeisingEO's turn.
+
+[22:19:15] Untap
+[22:19:21] AmeisingEO untaps their permanents.
+[22:19:23] AmeisingEO draws 1 card(s).
+[22:19:43] AmeisingEO puts Plains into play from their hand.
+[22:19:51] AmeisingEO taps Plains.
+[22:19:52] AmeisingEO taps Port Town.
+[22:19:53] AmeisingEO taps Swamp.
+[22:19:54] AmeisingEO taps Plains.
+[22:19:55] AmeisingEO untaps Plains.
+[22:19:56] AmeisingEO taps Meticulous Archive.
+[22:20:04] AmeisingEO creates token: Warrior Token (1/1).
+[22:20:11] AmeisingEO draws 1 card(s).
+[22:20:20] AmeisingEO taps Plains.
+[22:20:47] AmeisingEO destroys Warrior Token .
+[22:20:48] AmeisingEO draws 1 card(s).
+[22:20:48] AmeisingEO draws 1 card(s).
+
+[22:21:01] Astronero's turn.
+
+[22:21:01] Untap
+
+[22:21:30] Rockysaurus's turn.
+
+[22:21:30] Untap
+
+[22:21:30] Chamomi's turn.
+
+[22:21:30] Untap
+
+[22:21:31] AmeisingEO's turn.
+
+[22:21:31] Untap
+[22:21:35] Astronero taps Luxury Suite.
+[22:21:35] Astronero taps Mountain.
+[22:21:39] Astronero sets counter Life to 38 (-1).
+[22:21:40] Astronero sets counter Life to 37 (-1).
+[22:21:40] Astronero sets counter Life to 36 (-1).
+[22:21:42] Astronero plays Bitter Triumph from their hand.
+[22:21:48] AmeisingEO puts Plains from their hand into their graveyard.
+[22:21:50] Astronero points from their Bitter Triumph to their Cormela, Glamour Thief.
+[22:21:55] Astronero points from their Bitter Triumph to their Cormela, Glamour Thief.
+[22:21:55] Astronero plays Cormela, Glamour Thief from play.
+[22:21:59] Astronero puts Bitter Triumph from the stack into their graveyard.
+[22:22:02] Astronero puts Cormela, Glamour Thief into play from the stack.
+[22:22:06] Astronero taps Swamp.
+[22:22:08] Astronero points from their Swamp to AmeisingEO's Rhystic Study.
+[22:22:18] Astronero puts Mizzix's Mastery into play from their graveyard.
+[22:22:33] Astronero moves Mizzix's Mastery from play to their hand.
+
+[22:22:42] Astronero's turn.
+
+[22:22:42] Untap
+[22:22:45] Astronero untaps their permanents.
+[22:22:45] Astronero untaps their permanents.
+[22:22:46] Astronero draws 1 card(s).
+[22:22:49] Astronero puts Training Center into play from their hand.
+[22:23:12] Astronero sets counter Colorless to 1 (+1).
+[22:23:13] Astronero sets counter Colorless to 2 (+1).
+[22:23:13] Astronero sets counter Colorless to 3 (+1).
+[22:23:13] Astronero sets counter Colorless to 4 (+1).
+[22:23:13] Astronero sets counter Colorless to 5 (+1).
+[22:23:13] Astronero sets counter Colorless to 6 (+1).
+[22:23:13] Astronero sets counter Colorless to 7 (+1).
+[22:23:13] Astronero sets counter Colorless to 8 (+1).
+[22:23:14] Astronero sets counter Colorless to 9 (+1).
+[22:23:14] Astronero sets counter Colorless to 10 (+1).
+[22:23:14] Astronero sets counter Colorless to 11 (+1).
+[22:23:14] Astronero sets counter Colorless to 12 (+1).
+[22:23:15] Astronero sets counter Colorless to 11 (-1).
+[22:23:44] Astronero sets counter Colorless to 10 (-1).
+[22:23:44] Astronero sets counter Colorless to 9 (-1).
+[22:23:45] Astronero sets counter Colorless to 8 (-1).
+[22:23:45] Astronero sets counter Colorless to 7 (-1).
+[22:23:46] Astronero sets counter Colorless to 6 (-1).
+[22:23:46] Astronero sets counter Colorless to 5 (-1).
+[22:23:49] Astronero sets counter Colorless to 6 (+1).
+[22:23:50] Astronero sets counter Colorless to 7 (+1).
+[22:23:53] Astronero sets counter Colorless to 8 (+1).
+[22:23:53] Astronero sets counter Colorless to 9 (+1).
+[22:23:53] Astronero sets counter Colorless to 10 (+1).
+[22:23:54] Astronero sets counter Colorless to 11 (+1).
+[22:23:59] Astronero taps Talisman of Indulgence.
+[22:23:59] Astronero taps Izzet Signet.
+[22:24:01] Astronero sets counter Colorless to 10 (-1).
+[22:24:01] Astronero sets counter Colorless to 9 (-1).
+[22:24:01] Astronero sets counter Colorless to 8 (-1).
+[22:24:02] Astronero sets counter Colorless to 7 (-1).
+[22:24:02] Astronero sets counter Colorless to 6 (-1).
+[22:24:02] Astronero sets counter Colorless to 5 (-1).
+[22:24:02] Astronero sets counter Colorless to 4 (-1).
+[22:24:02] Astronero sets counter Colorless to 3 (-1).
+[22:24:02] Astronero sets counter Colorless to 2 (-1).
+[22:24:03] Astronero sets counter Colorless to 1 (-1).
+[22:24:03] Astronero sets counter Other to 1 (+1).
+[22:24:04] Astronero sets counter Colorless to 0 (-1).
+[22:24:04] Astronero sets counter Green to 2 (+1).
+[22:24:04] Astronero sets counter Green to 1 (-1).
+[22:24:05] Astronero sets counter Green to 0 (-1).
+[22:24:07] Astronero sets counter Blue to 1 (+1).
+[22:24:07] Astronero sets counter Red to 1 (+1).
+[22:24:08] Astronero taps Sol Ring.
+[22:24:09] Astronero sets counter Colorless to 1 (+1).
+[22:24:10] Astronero sets counter Colorless to 2 (+1).
+[22:24:12] Astronero sets counter Blue to 2 (+1).
+[22:24:13] Astronero taps Island.
+[22:24:14] Astronero taps Training Center.
+[22:24:15] Astronero sets counter Red to 2 (+1).
+[22:24:16] Astronero taps Sanguine Morass.
+[22:24:17] Astronero sets counter Black to 1 (+1).
+[22:24:18] Astronero taps Mountain.
+[22:24:19] Astronero sets counter Red to 3 (+1).
+[22:24:20] Astronero taps Luxury Suite.
+[22:24:22] Astronero sets counter Black to 2 (+1).
+[22:24:23] Astronero taps Swamp.
+[22:24:23] Astronero sets counter Black to 3 (+1).
+[22:24:25] Astronero taps Cormela, Glamour Thief.
+[22:24:27] Astronero sets counter Colorless to 1 (-1).
+[22:24:27] Astronero sets counter Blue to 3 (+1).
+[22:24:28] Astronero sets counter Black to 4 (+1).
+[22:24:29] Astronero sets counter Red to 4 (+1).
+[22:24:32] Astronero plays Mizzix's Mastery from their hand.
+[22:24:48] Astronero sets counter Red to 3 (-1).
+[22:24:49] Astronero sets counter Red to 2 (-1).
+[22:24:49] Astronero sets counter Red to 1 (-1).
+[22:24:51] Astronero sets counter Colorless to 0 (-1).
+[22:24:53] Astronero sets counter Black to 3 (-1).
+[22:24:54] Astronero sets counter Black to 2 (-1).
+[22:24:55] Astronero sets counter Blue to 2 (-1).
+[22:24:56] Astronero sets counter Black to 1 (-1).
+[22:25:00] Astronero puts Mizzix's Mastery from the stack into their graveyard.
+[22:25:04] Astronero exiles Mizzix's Mastery from their graveyard.
+[22:25:10] Astronero puts Bitter Triumph into play from their graveyard.
+[22:25:11] Astronero sets counter Life to 35 (-1).
+[22:25:11] Astronero sets counter Life to 34 (-1).
+[22:25:12] Astronero sets counter Life to 33 (-1).
+[22:25:14] Astronero points from their Bitter Triumph to Rockysaurus's Zurgo Helmsmasher.
+[22:25:18] Rockysaurus plays Zurgo Helmsmasher from play.
+[22:25:19] Astronero exiles Bitter Triumph from play.
+[22:25:27] Astronero puts Withering Torment into play from their graveyard.
+[22:25:28] Rockysaurus puts Zurgo Helmsmasher into play from the stack.
+[22:25:30] Rockysaurus places 1 red counter(s) on Zurgo Helmsmasher (now 1).
+[22:25:47] AmeisingEO draws 1 card(s).
+[22:25:47] AmeisingEO draws 1 card(s).
+[22:25:48] Astronero points from their Withering Torment to AmeisingEO's Rhystic Study.
+[22:25:51] Astronero sets counter Life to 32 (-1).
+[22:25:52] Astronero sets counter Life to 31 (-1).
+[22:25:56] AmeisingEO puts Rhystic Study from play into their graveyard.
+[22:25:57] Astronero puts Withering Torment from play into their graveyard.
+[22:25:58] Astronero exiles Withering Torment from their graveyard.
+[22:26:02] Astronero puts Quick Study into play from their graveyard.
+[22:26:04] Astronero draws 1 card(s).
+[22:26:04] Astronero draws 1 card(s).
+[22:26:11] Astronero exiles Quick Study from play.
+[22:26:14] Astronero puts Silundi Vision into play from their graveyard.
+[22:26:24] Astronero puts Maestros Charm into play from their graveyard.
+[22:26:36] Astronero is looking at the top 6 card(s) of their library.
+[22:26:40] Astronero moves a card from their library to their hand.
+[22:27:21] Astronero puts Clone Legion into play from their library.
+[22:27:25] Astronero puts Rite of Replication into play from their library.
+[22:27:36] Astronero puts a card from their library onto the bottom of their library.
+[22:27:36] Astronero puts a card from their library onto the bottom of their library.
+[22:27:36] Astronero puts the top card of their library onto the bottom of their library.
+[22:27:36] Astronero shuffles the bottom 3 cards of their library.
+[22:27:49] Astronero moves Clone Legion from play to their hand.
+[22:27:53] Astronero puts Rite of Replication from play onto the bottom of their library.
+[22:27:56] Astronero exiles Silundi Vision from play.
+[22:28:22] Astronero exiles Maestros Charm from play.
+[22:28:24] Astronero sets counter Life to 32 (+1).
+[22:28:24] Astronero sets counter Life to 33 (+1).
+[22:28:24] Astronero sets counter Life to 34 (+1).
+[22:28:27] Rockysaurus sets counter Life to 32 (-1).
+[22:28:28] Rockysaurus sets counter Life to 31 (-1).
+[22:28:28] Rockysaurus sets counter Life to 30 (-1).
+[22:28:28] Chamomi sets counter Life to 39 (-1).
+[22:28:28] Chamomi sets counter Life to 38 (-1).
+[22:28:28] Chamomi sets counter Life to 37 (-1).
+[22:28:29] Astronero puts Elminster's Simulacrum into play from their graveyard.
+[22:28:29] AmeisingEO sets counter Life to 21 (-1).
+[22:28:29] AmeisingEO sets counter Life to 20 (-1).
+[22:28:30] AmeisingEO sets counter Life to 19 (-1).
+[22:28:35] Astronero creates token: Raiyuu, Storm's Edge (3/3).
+[22:28:55] Astronero creates token: Shroofus Sproutsire (1/1).
+[22:28:59] Astronero creates token: Marneus Calgar (3/5).
+[22:29:21] Astronero destroys Shroofus Sproutsire.
+[22:29:24] Astronero creates token: Birds of Paradise (0/1).
+[22:29:34] Astronero destroys Birds of Paradise.
+[22:29:37] Astronero creates token: Shroofus Sproutsire (1/1).
+[22:29:40] Astronero puts Irenicus's Vile Duplication into play from their graveyard.
+[22:29:46] Astronero creates token: Zurgo Helmsmasher (7/2).
+[22:29:49] Rockysaurus taps Savai Triome.
+[22:29:50] Rockysaurus taps Plains.
+[22:29:52] Rockysaurus puts Swords to Plowshares into play from their hand.
+[22:29:53] Rockysaurus points from their Swords to Plowshares to Astronero's Zurgo Helmsmasher.
+[22:30:12] Rockysaurus untaps Savai Triome.
+[22:30:29] Astronero puts Waterlogged Teachings from their graveyard into their graveyard.
+[22:30:40] Astronero sets counter Life to 35 (+1).
+[22:30:41] Astronero sets counter Life to 36 (+1).
+[22:30:46] Astronero destroys Zurgo Helmsmasher.
+[22:30:46] Astronero destroys Zurgo Helmsmasher.
+[22:30:47] Rockysaurus puts Swords to Plowshares from play into their graveyard.
+[22:30:49] Astronero puts Waterlogged Teachings into play from their graveyard.
+[22:30:52] Astronero exiles Waterlogged Teachings from play.
+[22:30:55] Astronero is looking at their library.
+[22:32:17] Astronero puts Frantic Search into play from their library.
+[22:32:19] Astronero shuffles their library.
+[22:32:21] Astronero moves Frantic Search from play to their hand.
+[22:32:22] Astronero exiles Irenicus's Vile Duplication from play.
+[22:32:29] Astronero exiles Elminster's Simulacrum from play.
+[22:32:38] Astronero sets counter Blue to 1 (-1).
+[22:32:38] Astronero sets counter Black to 0 (-1).
+[22:32:39] Astronero sets counter Red to 0 (-1).
+[22:32:40] Astronero puts Frantic Search into play from their hand.
+[22:32:45] Astronero puts Frantic Search from play into their graveyard.
+[22:32:47] Astronero draws 1 card(s).
+[22:32:48] Astronero draws 1 card(s).
+[22:32:59] Astronero puts Valakut Awakening from their hand into their graveyard.
+[22:33:05] Astronero puts Sublime Epiphany from their hand into their graveyard.
+[22:33:17] Astronero untaps Sanguine Morass.
+[22:33:18] Astronero untaps Training Center.
+[22:33:20] Astronero puts Mountain into play from their hand.
+[22:33:30] Astronero taps Training Center.
+[22:33:30] Astronero taps Sanguine Morass.
+[22:33:30] Astronero taps Mountain.
+[22:33:31] Astronero sets counter Blue to 0 (-1).
+[22:33:32] Astronero puts Cursed Recording into play from their hand.
+
+[22:34:05] Rockysaurus's turn.
+
+[22:34:05] Untap
+[22:34:11] Rockysaurus untaps their permanents.
+[22:34:17] Rockysaurus moves Command Tower from the top of their library to their hand.
+[22:34:20] Rockysaurus puts Command Tower into play from their hand.
+[22:34:52] Chamomi removes 1 red counter(s) from Saproling Token (now 8).
+[22:35:03] Chamomi moves the top card of their library to their hand.
+[22:35:16] Chamomi points from their Saproling Token to Rockysaurus's Danitha Capashen, Paragon.
+[22:35:18] Chamomi points from Rockysaurus's Danitha Capashen, Paragon to their own Saproling Token.
+[22:35:46] Rockysaurus taps Command Tower.
+[22:35:46] Rockysaurus taps Vault of Champions.
+[22:35:46] Rockysaurus taps Plains.
+[22:35:46] Rockysaurus taps Plains.
+[22:35:46] Rockysaurus taps Orzhov Signet.
+[22:35:50] Rockysaurus taps Dragonskull Summit.
+[22:35:50] Rockysaurus taps Savai Triome.
+[22:36:29] Astronero has lost connection to the game.
+[22:36:38] Astronero has restored connection to the game.
+[22:36:49] Rockysaurus taps Zurgo Helmsmasher.
+[22:36:52] Rockysaurus points from their Zurgo Helmsmasher to Astronero.
+[22:36:57] Astronero points from their Shroofus Sproutsire to Rockysaurus's Zurgo Helmsmasher.
+[22:37:04] Chamomi puts the top card of their library on top of their library.
+[22:37:06] Astronero destroys Shroofus Sproutsire.
+[22:37:07] Astronero draws 1 card(s).
+[22:37:09] Rockysaurus untaps Zurgo Helmsmasher.
+[22:37:41] Chamomi removes 1 red counter(s) from Saproling Token (now 7).
+[22:37:41] Rockysaurus points from their Zurgo Helmsmasher to Chamomi's Saproling Token.
+[22:37:44] Chamomi moves the top card of their library to their hand.
+[22:37:56] Rockysaurus sets counter Life to 31 (+1).
+[22:37:57] Rockysaurus sets counter Life to 32 (+1).
+[22:37:59] Rockysaurus changes the PT of Zurgo Helmsmasher from 7/2 to 8/3.
+[22:38:01] Rockysaurus taps Zurgo Helmsmasher.
+
+[22:38:12] Chamomi's turn.
+
+[22:38:12] Untap
+[22:38:15] Chamomi taps Saproling Token.
+[22:38:15] Chamomi taps Birds of Paradise.
+[22:38:15] Chamomi taps Utopia Sprawl.
+[22:38:15] Chamomi taps Llanowar Elves.
+[22:38:15] Chamomi taps Shroofus Sproutsire.
+[22:38:15] Chamomi taps Fecundity.
+[22:38:15] Chamomi taps Sol Ring.
+[22:38:16] Chamomi untaps Saproling Token.
+[22:38:16] Chamomi untaps Birds of Paradise.
+[22:38:16] Chamomi untaps Forest.
+[22:38:16] Chamomi untaps Forest.
+[22:38:16] Chamomi untaps Forest.
+[22:38:16] Chamomi untaps Utopia Sprawl.
+[22:38:16] Chamomi untaps Forest.
+[22:38:16] Chamomi untaps Llanowar Elves.
+[22:38:16] Chamomi untaps Shroofus Sproutsire.
+[22:38:16] Chamomi untaps Fecundity.
+[22:38:16] Chamomi untaps Sol Ring.
+[22:38:20] Upkeep
+[22:38:20] Draw
+[22:38:22] Chamomi moves the top card of their library to their hand.
+[22:38:42] Chamomi taps Saproling Token.
+[22:38:42] Chamomi taps Birds of Paradise.
+[22:38:42] Chamomi taps Forest.
+[22:38:42] Chamomi taps Forest.
+[22:38:42] Chamomi taps Forest.
+[22:38:42] Chamomi taps Utopia Sprawl.
+[22:38:42] Chamomi taps Forest.
+[22:38:42] Chamomi taps Llanowar Elves.
+[22:38:42] Chamomi taps Shroofus Sproutsire.
+[22:38:42] Chamomi taps Fecundity.
+[22:38:42] Chamomi taps Sol Ring.
+[22:38:43] Chamomi untaps Saproling Token.
+[22:38:43] Chamomi untaps Birds of Paradise.
+[22:38:43] Chamomi untaps Forest.
+[22:38:43] Chamomi untaps Forest.
+[22:38:43] Chamomi untaps Forest.
+[22:38:43] Chamomi untaps Utopia Sprawl.
+[22:38:43] Chamomi untaps Forest.
+[22:38:43] Chamomi untaps Llanowar Elves.
+[22:38:43] Chamomi untaps Shroofus Sproutsire.
+[22:38:43] Chamomi untaps Fecundity.
+[22:38:43] Chamomi untaps Sol Ring.
+[22:38:44] Chamomi taps Sol Ring.
+[22:38:45] Chamomi taps Forest.
+[22:38:46] Chamomi taps Forest.
+[22:38:47] Chamomi puts Forest into play from their hand.
+[22:38:50] Chamomi puts Ruxa, Patient Professor into play from their hand.
+[22:39:30] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[22:40:40] Chamomi points from their Saproling Token to Rockysaurus.
+[22:41:03] Chamomi points from their Saproling Token to AmeisingEO.
+[22:41:17] Chamomi points from their Saproling Token to Astronero.
+[22:41:37] Rockysaurus points from their Danitha Capashen, Paragon to Chamomi's Saproling Token.
+[22:41:40] Astronero sets counter Life to 30 (-6).
+[22:41:41] Rockysaurus sets counter Life to 33 (+1).
+[22:41:42] Rockysaurus sets counter Life to 34 (+1).
+[22:41:44] Rockysaurus sets counter Life to 33 (-1).
+[22:41:45] Rockysaurus sets counter Life to 32 (-1).
+[22:41:45] Rockysaurus sets counter Life to 31 (-1).
+[22:41:45] Rockysaurus sets counter Life to 30 (-1).
+[22:42:03] Chamomi places 1 red counter(s) on Saproling Token (now 8).
+[22:42:09] Chamomi places 1 red counter(s) on Saproling Token (now 9).
+[22:42:11] Chamomi places 1 red counter(s) on Saproling Token (now 10).
+[22:42:12] Chamomi sets counter White to 3 (-1).
+[22:43:01] AmeisingEO points from their Marneus Calgar to Chamomi's Saproling Token.
+[22:43:50] Chamomi sets counter White to 2 (-1).
+[22:43:50] Chamomi sets counter White to 1 (-1).
+[22:43:50] Chamomi sets counter White to 0 (-1).
+[22:43:51] Untap
+[22:43:51] Draw
+[22:43:54] Chamomi removes 1 red counter(s) from Saproling Token (now 9).
+[22:43:55] Chamomi removes 1 red counter(s) from Saproling Token (now 8).
+[22:43:56] Chamomi removes 1 red counter(s) from Saproling Token (now 7).
+[22:45:15] Chamomi places 1 red counter(s) on Saproling Token (now 8).
+[22:45:16] Chamomi places 1 red counter(s) on Saproling Token (now 9).
+[22:45:17] Chamomi sets counter White to 1 (+1).
+[22:45:17] Chamomi sets counter White to 2 (+1).
+[22:45:21] Rockysaurus sets counter Life to 31 (+1).
+[22:45:21] Rockysaurus sets counter Life to 32 (+1).
+[22:45:24] Chamomi removes 1 red counter(s) from Saproling Token (now 8).
+[22:45:26] Chamomi removes 1 red counter(s) from Saproling Token (now 7).
+[22:45:38] Chamomi sets counter White to 3 (+1).
+[22:45:38] Chamomi sets counter White to 4 (+1).
+[22:45:45] Rockysaurus sets counter Life to 31 (-1).
+[22:45:46] Rockysaurus sets counter Life to 30 (-1).
+[22:45:46] Rockysaurus sets counter Life to 29 (-1).
+[22:45:46] Rockysaurus sets counter Life to 28 (-1).
+[22:46:10] Chamomi sets counter Blue to 1 (+1).
+[22:46:10] Chamomi sets counter Blue to 2 (+1).
+[22:46:17] Astronero sets counter Life to 31 (+1).
+[22:46:17] Astronero sets counter Life to 32 (+1).
+[22:46:17] Astronero sets counter Life to 33 (+1).
+[22:46:18] Astronero sets counter Life to 34 (+1).
+[22:46:59] Chamomi removes 1 red counter(s) from Saproling Token (now 6).
+[22:47:19] Chamomi sets counter Black to 1 (+1).
+[22:47:19] Chamomi sets counter Black to 2 (+1).
+[22:47:19] Chamomi sets counter Black to 3 (+1).
+[22:47:19] Chamomi sets counter Black to 4 (+1).
+[22:47:20] Chamomi sets counter Black to 5 (+1).
+[22:47:23] Chamomi places 1 red counter(s) on Saproling Token (now 7).
+[22:47:26] AmeisingEO sets counter Life to 13 (-6).
+[22:47:47] Chamomi places 10 red counter(s) on Saproling Token (now 17).
+[22:47:50] Chamomi places 1 red counter(s) on Saproling Token (now 18).
+[22:48:19] Chamomi removes 1 red counter(s) from Saproling Token (now 17).
+[22:48:21] Chamomi removes 1 red counter(s) from Saproling Token (now 16).
+[22:48:33] Chamomi moves the top card of their library to their hand.
+[22:48:35] Chamomi moves the top card of their library to their hand.
+[22:48:36] Chamomi moves the top card of their library to their hand.
+[22:48:42] Chamomi taps Forest.
+[22:48:42] Chamomi taps Forest.
+[22:48:44] Chamomi puts Sylvan Anthem into play from their hand.
+[22:48:52] Chamomi changes the PT of Saproling Token from 2/2 to 3/3.
+[22:48:54] Chamomi changes the PT of Shroofus Sproutsire from 1/1 to 2/2.
+[22:48:56] Chamomi changes the PT of Birds of Paradise from 0/1 to 1/2.
+[22:48:58] Chamomi changes the PT of Ruxa, Patient Professor from 4/4 to 5/5.
+
+[22:49:03] AmeisingEO's turn.
+
+[22:49:03] Untap
+[22:49:04] Chamomi taps Saproling Token.
+[22:49:06] Chamomi untaps Saproling Token.
+[22:49:07] Chamomi sets counter Black to 4 (-1).
+[22:49:07] Chamomi sets counter Black to 3 (-1).
+[22:49:08] Chamomi sets counter Black to 2 (-1).
+[22:49:08] Chamomi sets counter Black to 1 (-1).
+[22:49:08] AmeisingEO draws 1 card(s).
+[22:49:08] Chamomi sets counter Black to 0 (-1).
+[22:49:09] Chamomi sets counter Blue to 1 (-1).
+[22:49:09] Chamomi sets counter Blue to 0 (-1).
+[22:49:09] Chamomi sets counter Blue to -1 (-1).
+[22:49:09] Chamomi sets counter Blue to -2 (-1).
+[22:49:10] Chamomi sets counter Blue to -1 (+1).
+[22:49:10] Chamomi sets counter Blue to 0 (+1).
+[22:49:11] Chamomi sets counter Blue to -1 (-1).
+[22:49:11] Chamomi sets counter Blue to -2 (-1).
+[22:49:11] Chamomi sets counter Blue to -3 (-1).
+[22:49:12] Chamomi sets counter Blue to -2 (+1).
+[22:49:12] Chamomi sets counter Blue to -1 (+1).
+[22:49:12] Chamomi sets counter Blue to 0 (+1).
+[22:49:12] Chamomi sets counter Blue to 1 (+1).
+[22:49:13] Chamomi sets counter Blue to 0 (-1).
+[22:49:14] Chamomi sets counter White to 5 (+1).
+[22:49:14] Chamomi sets counter White to 6 (+1).
+[22:49:14] Chamomi sets counter White to 7 (+1).
+[22:49:15] Chamomi sets counter White to 8 (+1).
+[22:49:15] AmeisingEO untaps their permanents.
+[22:49:39] AmeisingEO puts Island into play from their hand.
+[22:50:08] AmeisingEO taps Meticulous Archive.
+[22:50:08] AmeisingEO taps Plains.
+[22:50:08] AmeisingEO taps Port Town.
+[22:50:08] AmeisingEO taps Swamp.
+[22:50:08] AmeisingEO taps Island.
+[22:50:08] AmeisingEO taps Plains.
+[22:50:13] AmeisingEO puts Farewell into play from their hand.
+[22:51:19] Astronero exiles Sublime Epiphany from their graveyard.
+[22:51:19] Astronero exiles Valakut Awakening from their graveyard.
+[22:51:19] Astronero exiles Frantic Search from their graveyard.
+[22:51:19] Astronero exiles Fabled Passage from their graveyard.
+[22:51:19] Astronero exiles Sin Prodder from their graveyard.
+[22:51:21] Rockysaurus exiles Danitha Capashen, Paragon from play.
+[22:51:21] Rockysaurus exiles Raiyuu, Storm's Edge from play.
+[22:51:25] Chamomi puts Sylvan Anthem from play into their graveyard.
+[22:51:27] Chamomi exiles Sylvan Anthem from their graveyard.
+[22:51:28] Astronero destroys Raiyuu, Storm's Edge.
+[22:51:28] Astronero destroys Marneus Calgar.
+[22:51:28] Astronero destroys Cormela, Glamour Thief.
+[22:51:29] Chamomi exiles Fecundity from play.
+[22:51:29] AmeisingEO exiles Rhystic Study from their graveyard.
+[22:51:29] AmeisingEO exiles Plains from their graveyard.
+[22:51:29] AmeisingEO exiles Talisman of Progress from their graveyard.
+[22:51:30] Chamomi destroys Saproling Token.
+[22:51:31] Astronero places 1 red counter(s) on Cormela, Glamour Thief (now 1).
+[22:51:32] Chamomi exiles Birds of Paradise from play.
+[22:51:32] Astronero places 1 red counter(s) on Cormela, Glamour Thief (now 2).
+[22:51:33] AmeisingEO puts Farewell from play into their graveyard.
+[22:51:34] Rockysaurus places 1 red counter(s) on Zurgo Helmsmasher (now 2).
+[22:51:36] Chamomi exiles Llanowar Elves from play.
+[22:51:38] Rockysaurus changes the PT of Zurgo Helmsmasher from 8/3 to 9/4.
+[22:51:38] Chamomi exiles Ruxa, Patient Professor from play.
+[22:51:41] Rockysaurus changes the PT of Zurgo Helmsmasher from 9/4 to 8/3.
+[22:51:41] Rockysaurus changes the PT of Zurgo Helmsmasher from 8/3 to 7/2.
+
+[22:51:46] Astronero's turn.
+
+[22:51:46] Untap
+[22:51:47] Astronero untaps their permanents.
+[22:51:47] Astronero untaps their permanents.
+[22:51:50] Astronero draws 1 card(s).
+[22:51:57] Astronero taps Izzet Signet.
+[22:51:58] Astronero taps Talisman of Indulgence.
+[22:51:58] Astronero taps Island.
+[22:51:59] Astronero taps Sanguine Morass.
+[22:52:00] Astronero taps Training Center.
+[22:52:00] Astronero taps Mountain.
+[22:52:07] Astronero taps Mountain.
+[22:52:10] Astronero taps Cursed Recording.
+[22:52:13] Astronero places 1 red counter(s) on Cursed Recording (now 1).
+[22:52:20] Astronero plays Breach the Multiverse from their hand.
+[22:52:24] Rockysaurus exiles Swords to Plowshares from their graveyard.
+[22:52:42] Rockysaurus puts Mountain from the top of their library into their graveyard.
+[22:52:42] Rockysaurus puts The Reaver Cleaver from the top of their library into their graveyard.
+[22:52:44] Rockysaurus puts Fireshrieker from the top of their library into their graveyard.
+[22:52:45] Rockysaurus puts Plains from the top of their library into their graveyard.
+[22:52:46] Chamomi exiles Return of the Wildspeaker from the top of their library.
+[22:52:46] Rockysaurus puts Blood Crypt from the top of their library into their graveyard.
+[22:52:46] Chamomi exiles Might of the Masses from the top of their library.
+[22:52:47] Rockysaurus puts Swamp from the top of their library into their graveyard.
+[22:52:48] Chamomi exiles Silkguard from the top of their library.
+[22:52:48] Rockysaurus puts Terramorphic Expanse from the top of their library into their graveyard.
+[22:52:48] Chamomi exiles Forest from the top of their library.
+[22:52:49] Rockysaurus puts Plains from the top of their library into their graveyard.
+[22:52:49] Chamomi exiles Forest from the top of their library.
+[22:52:49] Rockysaurus puts Sram, Senior Edificer from the top of their library into their graveyard.
+[22:52:50] Chamomi exiles Krosan Wayfarer from the top of their library.
+[22:52:50] Rockysaurus puts Bruenor Battlehammer from the top of their library into their graveyard.
+[22:52:51] Chamomi exiles Forest from the top of their library.
+[22:52:52] Chamomi exiles Spore Cloud from the top of their library.
+[22:52:54] Chamomi exiles Snakeskin Veil from the top of their library.
+[22:52:55] Chamomi exiles Saproling Cluster from the top of their library.
+[22:53:07] AmeisingEO puts Tainted Field from the top of their library into their graveyard.
+[22:53:07] AmeisingEO puts Plains from the top of their library into their graveyard.
+[22:53:07] AmeisingEO puts Plains from the top of their library into their graveyard.
+[22:53:07] AmeisingEO puts Counterspell from the top of their library into their graveyard.
+[22:53:07] AmeisingEO puts Island from the top of their library into their graveyard.
+[22:53:07] AmeisingEO puts Anointed Procession from the top of their library into their graveyard.
+[22:53:07] AmeisingEO puts Collective Effort from the top of their library into their graveyard.
+[22:53:07] AmeisingEO puts Reliquary Tower from the top of their library into their graveyard.
+[22:53:07] AmeisingEO puts Utter End from the top of their library into their graveyard.
+[22:53:07] AmeisingEO puts Scoured Barrens from the top of their library into their graveyard.
+[22:53:09] Chamomi puts Saproling Cluster from exile into their graveyard.
+[22:53:09] Chamomi puts Snakeskin Veil from exile into their graveyard.
+[22:53:09] Chamomi puts Spore Cloud from exile into their graveyard.
+[22:53:09] Chamomi puts Forest from exile into their graveyard.
+[22:53:09] Chamomi puts Forest from exile into their graveyard.
+[22:53:09] Chamomi puts Forest from exile into their graveyard.
+[22:53:09] Chamomi puts Silkguard from exile into their graveyard.
+[22:53:09] Chamomi puts Might of the Masses from exile into their graveyard.
+[22:53:09] Chamomi puts Return of the Wildspeaker from exile into their graveyard.
+[22:53:09] Chamomi puts Fecundity from exile into their graveyard.
+[22:53:09] Chamomi puts Sylvan Anthem from exile into their graveyard.
+[22:53:09] Chamomi puts Invigorate from exile into their graveyard.
+[22:53:14] Astronero puts Sphinx of Forgotten Lore from the top of their library into their graveyard.
+[22:53:14] Astronero puts Izzet Charm from the top of their library into their graveyard.
+[22:53:14] Astronero puts Blood Crypt from the top of their library into their graveyard.
+[22:53:14] Astronero puts Scalding Tarn from the top of their library into their graveyard.
+[22:53:14] Astronero puts Keen Duelist from the top of their library into their graveyard.
+[22:53:14] Astronero puts Stock Up from the top of their library into their graveyard.
+[22:53:14] Astronero puts Whirlwind Denial from the top of their library into their graveyard.
+[22:53:14] Astronero puts Rowan's Grim Search from the top of their library into their graveyard.
+[22:53:14] Astronero puts Swamp from the top of their library into their graveyard.
+[22:53:14] Astronero puts Arcane Denial from the top of their library into their graveyard.
+[22:53:36] Chamomi exiles Sylvan Anthem from their graveyard.
+[22:53:56] Chamomi exiles Fecundity from their graveyard.
+[22:54:24] Rockysaurus puts Bruenor Battlehammer into play from their graveyard.
+[22:54:27] Rockysaurus gives Astronero control over Bruenor Battlehammer.
+[22:54:27] Astronero sets annotation of Bruenor Battlehammer to "Owner: Rockysaurus".
+[22:55:05] Chamomi puts Krosan Wayfarer from exile into their graveyard.
+[22:55:21] Chamomi exiles Invigorate from their graveyard.
+[22:55:25] AmeisingEO puts Thunderhawk Gunship from their hand into their graveyard.
+[22:55:29] Chamomi gives Astronero control over Krosan Wayfarer.
+[22:55:29] Astronero sets annotation of Krosan Wayfarer to "Owner: Chamomi".
+[22:55:38] Astronero puts Sphinx of Forgotten Lore into play from their graveyard.
+[22:55:46] Rockysaurus plays Mountain from the top of their library.
+[22:55:47] Rockysaurus plays Bojuka Bog from the top of their library.
+[22:55:47] Astronero shuffles their deck and draws a new hand of 10 card(s).
+[22:55:48] Rockysaurus plays Celestial Armor from the top of their library.
+[22:55:48] Chamomi shuffles their deck and draws a new hand of 10 card(s).
+[22:55:49] Rockysaurus plays Path to Exile from the top of their library.
+[22:55:50] Rockysaurus plays Brass Squire from the top of their library.
+[22:55:55] Rockysaurus plays Sacred Foundry from the top of their library.
+[22:55:57] Rockysaurus plays Temur Battle Rage from the top of their library.
+[22:55:59] Rockysaurus plays Goblin Welder from the top of their library.
+[22:56:00] Rockysaurus plays Vexilus Praetor from the top of their library.
+[22:56:00] Chamomi exiles Forest from their hand.
+[22:56:01] Rockysaurus plays Boros Charm from the top of their library.
+[22:56:03] Chamomi exiles Forest from their hand.
+[22:56:05] Astronero puts Mistrise Village from their hand into their graveyard.
+[22:56:06] Astronero puts Mountain from their hand into their graveyard.
+[22:56:06] Chamomi puts Forest from exile into their graveyard.
+[22:56:07] Rockysaurus puts Vexilus Praetor into play from the stack.
+[22:56:15] Chamomi puts Elvish Mystic from their hand into their graveyard.
+[22:56:20] Chamomi puts Song of the Dryads from their hand into their graveyard.
+[22:56:27] Chamomi puts Fountainport from their hand into their graveyard.
+[22:56:29] Rockysaurus points from their Vexilus Praetor to Astronero.
+[22:56:30] Chamomi puts Oran-Rief, the Vastwood from their hand into their graveyard.
+[22:56:32] Chamomi puts Night Soil from their hand into their graveyard.
+[22:56:39] Rockysaurus puts Brass Squire into play from the stack.
+[22:56:41] Chamomi puts Idol of Oblivion from their hand into their graveyard.
+[22:56:42] Rockysaurus puts Goblin Welder into play from the stack.
+[22:56:54] Rockysaurus gives Astronero control over Vexilus Praetor.
+[22:56:54] Astronero sets annotation of Vexilus Praetor to "Owner: Rockysaurus".
+[22:56:58] Rockysaurus puts Brass Squire from play into their graveyard.
+[22:56:58] Rockysaurus puts Goblin Welder from play into their graveyard.
+[22:56:59] Rockysaurus puts Mountain from the stack into their graveyard.
+[22:56:59] Astronero puts Brainstorm from their hand into their graveyard.
+[22:56:59] Rockysaurus puts Bojuka Bog from the stack into their graveyard.
+[22:57:00] Rockysaurus puts Temur Battle Rage from the stack into their graveyard.
+[22:57:01] Rockysaurus puts Boros Charm from the stack into their graveyard.
+[22:57:01] Rockysaurus puts Sacred Foundry from the stack into their graveyard.
+[22:57:02] Rockysaurus puts Path to Exile from the stack into their graveyard.
+[22:57:02] Rockysaurus puts Celestial Armor from the stack into their graveyard.
+[22:57:19] Chamomi is looking at their library.
+[22:57:22] Chamomi moves a card from their library to their hand.
+[22:57:24] Chamomi puts a card from their hand on top of their library.
+[22:57:25] Chamomi puts a card from their hand on top of their library.
+[22:57:36] Astronero puts a card from their hand on top of their library.
+[22:57:36] Astronero puts a card from their hand into their library 2 cards from the top.
+[22:57:36] Astronero puts a card from their hand into their library 3 cards from the top.
+[22:57:36] Astronero puts a card from their hand into their library 4 cards from the top.
+[22:57:36] Astronero puts a card from their hand into their library 5 cards from the top.
+[22:57:36] Astronero puts a card from their hand into their library 6 cards from the top.
+[22:57:37] Astronero is looking at their library.
+[22:57:48] Astronero moves a card from their library to their hand.
+[22:57:51] Chamomi shuffles their library.
+[22:57:52] Chamomi moves the top card of their library to their hand.
+[22:57:54] Chamomi moves the top card of their library to their hand.
+[22:57:55] Chamomi moves the top card of their library to their hand.
+[22:57:56] Chamomi moves the top card of their library to their hand.
+[22:58:09] Astronero shuffles their library.
+[22:58:12] Astronero puts Breach the Multiverse from the stack into their graveyard.
+[22:58:22] Astronero puts Swamp from the top of their library into their graveyard.
+[22:58:22] Astronero puts Island from the top of their library into their graveyard.
+[22:58:22] Astronero puts Soulfire Eruption from the top of their library into their graveyard.
+[22:58:22] Astronero puts Hostile Takeover from the top of their library into their graveyard.
+[22:58:22] Astronero puts Make an Example from the top of their library into their graveyard.
+[22:58:22] Astronero puts Stormcarved Coast from the top of their library into their graveyard.
+[22:58:22] Astronero puts Gloomlake Verge from the top of their library into their graveyard.
+[22:58:22] Astronero puts Mutinous Massacre from the top of their library into their graveyard.
+[22:58:28] Astronero puts Keen Duelist into play from their graveyard.
+[22:58:51] Rockysaurus points from Astronero's Cursed Recording to AmeisingEO.
+[22:58:58] AmeisingEO puts Tranquil Cove from the top of their library into their graveyard.
+[22:58:58] AmeisingEO puts Vanguard Suppressor from the top of their library into their graveyard.
+[22:58:58] AmeisingEO puts Deserted Beach from the top of their library into their graveyard.
+[22:58:58] AmeisingEO puts Disorder in the Court from the top of their library into their graveyard.
+[22:58:58] AmeisingEO puts Ponder from the top of their library into their graveyard.
+[22:58:58] AmeisingEO puts Path of Ancestry from the top of their library into their graveyard.
+[22:58:58] AmeisingEO puts Ultramarines Honour Guard from the top of their library into their graveyard.
+[22:58:58] AmeisingEO puts Bastion Protector from the top of their library into their graveyard.
+[22:58:58] AmeisingEO puts Land Tax from the top of their library into their graveyard.
+[22:58:58] AmeisingEO puts Swamp from the top of their library into their graveyard.
+[22:59:56] AmeisingEO puts Bastion Protector into play from their graveyard.
+[22:59:57] AmeisingEO gives Astronero control over Bastion Protector.
+[22:59:57] Astronero sets annotation of Bastion Protector to "Owner: AmeisingEO".
+
+[23:00:00] Rockysaurus's turn.
+
+[23:00:00] Untap
+[23:00:06] Rockysaurus untaps their permanents.
+[23:00:08] Rockysaurus moves Damnation from the top of their library to their hand.
+[23:00:15] Rockysaurus taps Dragonskull Summit.
+[23:00:17] Rockysaurus taps Savai Triome.
+[23:00:18] Rockysaurus taps Command Tower.
+[23:00:19] Rockysaurus taps Vault of Champions.
+[23:00:24] Rockysaurus puts Damnation into play from their hand.
+[23:00:40] Astronero puts Sphinx of Forgotten Lore from play into their graveyard.
+[23:00:40] Astronero puts Vexilus Praetor from play into their graveyard.
+[23:00:40] Astronero puts Keen Duelist from play into their graveyard.
+[23:00:40] Astronero puts Bastion Protector from play into their graveyard.
+[23:00:40] Astronero puts Bruenor Battlehammer from play into their graveyard.
+[23:00:42] Astronero puts Krosan Wayfarer from play into their graveyard.
+[23:00:43] Rockysaurus puts Damnation from play into their graveyard.
+[23:00:48] Astronero puts Vexilus Praetor into play from their graveyard.
+[23:00:55] Astronero puts Bruenor Battlehammer into play from their graveyard.
+[23:00:56] Rockysaurus taps Plains.
+[23:00:56] Rockysaurus taps Plains.
+[23:00:56] Rockysaurus taps Orzhov Signet.
+[23:00:57] Astronero puts Bastion Protector into play from their graveyard.
+[23:00:59] Astronero puts Krosan Wayfarer into play from their graveyard.
+[23:00:59] Rockysaurus puts Ardenn, Intrepid Archaeologist into play from their hand.
+[23:01:01] Astronero gives Chamomi control over Krosan Wayfarer.
+[23:01:01] Chamomi sets annotation of Krosan Wayfarer to "Owner: Astronero".
+[23:01:04] Chamomi puts Krosan Wayfarer from play into their graveyard.
+
+[23:01:06] Chamomi's turn.
+
+[23:01:06] Untap
+[23:01:06] Astronero gives Rockysaurus control over Vexilus Praetor.
+[23:01:06] Rockysaurus sets annotation of Vexilus Praetor to "Owner: Astronero".
+[23:01:09] Astronero gives AmeisingEO control over Bastion Protector.
+[23:01:09] AmeisingEO sets annotation of Bastion Protector to "Owner: Astronero".
+[23:01:09] Rockysaurus puts Vexilus Praetor from play into their graveyard.
+[23:01:10] Astronero gives Rockysaurus control over Bruenor Battlehammer.
+[23:01:10] Rockysaurus sets annotation of Bruenor Battlehammer to "Owner: Astronero".
+[23:01:13] Rockysaurus puts Bruenor Battlehammer from play into their graveyard.
+[23:01:14] AmeisingEO puts Bastion Protector from play into their graveyard.
+[23:01:27] Chamomi untaps Sol Ring.
+[23:01:31] Chamomi moves the top card of their library to their hand.
+[23:01:34] Rockysaurus puts Swamp into play from their hand.
+[23:01:36] Astronero sets counter Life to 33 (-1).
+[23:01:51] Chamomi taps Utopia Sprawl.
+[23:01:51] Chamomi taps Forest.
+[23:01:52] Chamomi untaps Forest.
+[23:01:53] Chamomi untaps Forest.
+[23:01:54] Chamomi untaps Forest.
+[23:01:54] Chamomi taps Forest.
+[23:01:57] Chamomi puts Forest into play from their hand.
+[23:01:57] Chamomi taps Forest.
+[23:02:02] Chamomi changes the PT of Shroofus Sproutsire from 2/2 to 1/2.
+[23:02:04] Chamomi changes the PT of Shroofus Sproutsire from 1/2 to 0/2.
+[23:02:04] Chamomi changes the PT of Shroofus Sproutsire from 0/2 to 1/2.
+[23:02:05] Chamomi changes the PT of Shroofus Sproutsire from 1/2 to 1/2.
+[23:02:05] Chamomi changes the PT of Shroofus Sproutsire from 1/2 to 2/2.
+[23:02:06] Chamomi changes the PT of Shroofus Sproutsire from 2/2 to 1/1.
+[23:02:37] Chamomi puts Utopia Mycon into play from their hand.
+[23:02:39] Chamomi taps Forest.
+
+[23:02:56] AmeisingEO's turn.
+
+[23:02:56] Untap
+[23:02:58] AmeisingEO untaps their permanents.
+[23:03:01] AmeisingEO draws 1 card(s).
+[23:03:05] AmeisingEO puts Darkwater Catacombs into play from their hand.
+[23:03:25] Astronero puts Sphinx of Forgotten Lore into play from their graveyard.
+[23:03:26] Astronero puts Keen Duelist into play from their graveyard.
+[23:03:28] Astronero puts Swamp into play from their graveyard.
+[23:03:29] Astronero puts Swamp into play from their graveyard.
+[23:03:31] Astronero puts Island into play from their graveyard.
+[23:03:33] AmeisingEO taps Darkwater Catacombs.
+[23:03:33] Astronero puts Mountain into play from their graveyard.
+[23:03:34] AmeisingEO taps Port Town.
+[23:03:36] Astronero plays Island from play.
+[23:03:36] Astronero plays Mountain from play.
+[23:03:36] AmeisingEO taps Plains.
+[23:03:36] AmeisingEO taps Swamp.
+[23:03:36] AmeisingEO taps Plains.
+[23:03:37] Astronero plays Swamp from play.
+[23:03:37] Astronero plays Swamp from play.
+[23:03:40] Astronero plays Sphinx of Forgotten Lore from play.
+[23:03:40] Astronero plays Keen Duelist from play.
+[23:03:46] AmeisingEO taps Meticulous Archive.
+[23:03:48] AmeisingEO taps Island.
+[23:03:56] AmeisingEO creates token: Warrior Token (1/1).
+[23:03:57] AmeisingEO draws 1 card(s).
+[23:04:08] AmeisingEO untaps Swamp.
+[23:04:22] AmeisingEO destroys Warrior Token .
+[23:04:23] AmeisingEO draws 1 card(s).
+[23:04:23] AmeisingEO draws 1 card(s).
+[23:04:28] AmeisingEO taps Swamp.
+
+[23:04:33] Astronero's turn.
+
+[23:04:33] Untap
+[23:04:34] Astronero untaps their permanents.
+[23:04:34] Astronero untaps their permanents.
+[23:04:35] Astronero draws 1 card(s).
+[23:04:42] Astronero exiles Sphinx of Forgotten Lore from the stack.
+[23:04:42] Astronero exiles Keen Duelist from the stack.
+[23:04:42] Astronero exiles Swamp from the stack.
+[23:04:42] Astronero exiles Swamp from the stack.
+[23:04:42] Astronero exiles Island from the stack.
+[23:04:42] Astronero exiles Mountain from the stack.
+[23:04:48] Astronero taps Training Center.
+[23:04:48] Astronero taps Island.
+[23:04:50] Astronero plays Dig Through Time from their hand.
+[23:05:02] Astronero puts Dig Through Time from the stack into their graveyard.
+[23:05:04] Astronero puts a card from their hand on top of their library.
+[23:05:08] Astronero is looking at the top 7 card(s) of their library.
+[23:05:21] AmeisingEO puts Adeline, Resplendent Cathar from their hand into their graveyard.
+[23:05:35] AmeisingEO puts Elesh Norn, Grand Cenobite from their hand into their graveyard.
+[23:05:36] Astronero moves a card from their library to their hand.
+[23:05:54] Astronero moves a card from their library to their hand.
+[23:06:01] Astronero puts a card from their library onto the bottom of their library.
+[23:06:01] Astronero puts a card from their library onto the bottom of their library.
+[23:06:01] Astronero puts a card from their library onto the bottom of their library.
+[23:06:01] Astronero puts a card from their library onto the bottom of their library.
+[23:06:01] Astronero puts the top card of their library onto the bottom of their library.
+[23:06:01] Astronero shuffles the bottom 5 cards of their library.
+[23:06:02] Astronero draws 1 card(s).
+[23:06:05] Astronero puts Steam Vents into play from their hand.
+[23:06:06] Astronero taps Steam Vents.
+[23:06:10] Astronero taps Sol Ring.
+[23:06:11] Astronero untaps Sol Ring.
+[23:06:12] Astronero taps Sol Ring.
+[23:06:15] Astronero untaps Sol Ring.
+[23:06:23] Astronero taps Mountain.
+[23:06:23] Astronero taps Mountain.
+[23:06:24] Astronero taps Sanguine Morass.
+[23:06:25] Astronero taps Luxury Suite.
+[23:06:25] Astronero taps Swamp.
+[23:06:26] Astronero taps Izzet Signet.
+[23:06:27] Astronero taps Talisman of Indulgence.
+[23:06:29] Astronero taps Sol Ring.
+[23:06:34] Astronero sets counter Colorless to 1 (+1).
+[23:06:34] Astronero sets counter Colorless to 2 (+1).
+[23:06:35] Astronero sets counter Colorless to 3 (+1).
+[23:06:35] Astronero sets counter Colorless to 4 (+1).
+[23:06:35] Astronero sets counter Colorless to 5 (+1).
+[23:06:35] Astronero sets counter Colorless to 6 (+1).
+[23:06:35] Astronero sets counter Colorless to 7 (+1).
+[23:06:35] Astronero sets counter Colorless to 8 (+1).
+[23:06:36] Astronero sets counter Colorless to 9 (+1).
+[23:06:36] Astronero sets counter Colorless to 10 (+1).
+[23:06:39] Astronero sets counter Colorless to 9 (-1).
+[23:06:39] Astronero sets counter Colorless to 8 (-1).
+[23:06:39] Astronero sets counter Colorless to 7 (-1).
+[23:06:39] Astronero sets counter Colorless to 6 (-1).
+[23:06:39] Astronero sets counter Colorless to 5 (-1).
+[23:06:40] Astronero sets counter Colorless to 4 (-1).
+[23:06:42] Astronero sets counter Colorless to 3 (-1).
+[23:06:43] Astronero sets counter Colorless to 4 (+1).
+[23:06:43] Astronero sets counter Colorless to 5 (+1).
+[23:06:43] Astronero sets counter Colorless to 6 (+1).
+[23:06:45] Astronero taps Cormela, Glamour Thief.
+[23:06:45] AmeisingEO puts Island from their hand into their graveyard.
+[23:06:46] Astronero taps Cursed Recording.
+[23:06:48] Astronero plays Lórien Revealed from their hand.
+[23:06:51] Astronero puts Lórien Revealed from the stack into their graveyard.
+
+[23:06:52] Rockysaurus's turn.
+
+[23:06:53] Untap
+[23:06:53] Astronero draws 1 card(s).
+[23:06:54] Astronero draws 1 card(s).
+[23:06:54] Astronero draws 1 card(s).
+[23:06:55] Rockysaurus untaps their permanents.
+[23:06:55] Astronero draws 1 card(s).
+[23:06:56] Astronero draws 1 card(s).
+[23:06:56] Astronero draws 1 card(s).
+[23:06:57] Rockysaurus moves Aggravated Assault from the top of their library to their hand.
+[23:07:07] Astronero sets counter Colorless to 5 (-1).
+[23:07:07] Astronero sets counter Colorless to 4 (-1).
+[23:07:07] Astronero sets counter Colorless to 3 (-1).
+[23:07:07] Astronero sets counter Colorless to 2 (-1).
+[23:07:07] Astronero sets counter Colorless to 1 (-1).
+[23:07:08] Astronero sets counter Colorless to 0 (-1).
+[23:07:18] Astronero puts Island from their hand into their graveyard.
+[23:07:22] Rockysaurus taps Plains.
+[23:07:31] Rockysaurus taps Plains.
+[23:07:32] Rockysaurus puts Cranial Plating into play from their hand.
+[23:07:54] Rockysaurus taps Command Tower.
+[23:07:55] Rockysaurus taps Vault of Champions.
+[23:07:55] Rockysaurus taps Savai Triome.
+[23:08:03] Rockysaurus puts Aggravated Assault into play from their hand.
+[23:08:32] Rockysaurus points from their Ardenn, Intrepid Archaeologist to Astronero.
+[23:08:33] Astronero sets counter Life to 32 (-1).
+[23:08:33] Astronero sets counter Life to 31 (-1).
+[23:08:33] Astronero sets counter Life to 30 (-1).
+[23:08:33] Astronero sets counter Life to 29 (-1).
+[23:08:39] Rockysaurus taps Ardenn, Intrepid Archaeologist.
+[23:08:40] Rockysaurus taps Cranial Plating.
+
+[23:08:46] Chamomi's turn.
+
+[23:08:46] Untap
+[23:08:50] Chamomi taps Forest.
+[23:08:52] Chamomi untaps Forest.
+[23:08:52] Chamomi untaps Forest.
+[23:08:52] Chamomi untaps Forest.
+[23:08:52] Chamomi untaps Forest.
+[23:08:52] Chamomi untaps Forest.
+[23:08:52] Chamomi untaps Utopia Sprawl.
+[23:08:52] Chamomi untaps Forest.
+[23:08:52] Upkeep
+[23:08:53] Draw
+[23:08:54] Chamomi moves the top card of their library to their hand.
+[23:08:56] Chamomi places 1 red counter(s) on Utopia Mycon (now 1).
+[23:09:06] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 2/2 to 3/3.
+[23:09:07] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 3/3 to 2/2.
+[23:09:08] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 2/2 to 3/2.
+[23:09:08] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 3/2 to 4/2.
+[23:09:21] Chamomi taps Forest.
+[23:09:22] Chamomi puts Wild Growth into play from their hand.
+[23:09:27] Chamomi taps Forest.
+[23:09:29] Chamomi puts Arbor Elf into play from their hand.
+[23:10:20] Chamomi puts Primal Bellow into play from their hand.
+[23:10:22] Chamomi taps Forest.
+[23:10:33] Chamomi points from their Primal Bellow to their Shroofus Sproutsire.
+[23:10:40] Astronero sets counter Green to 1 (+1).
+[23:10:40] Astronero sets counter Other to 0 (-1).
+[23:10:57] Chamomi points from their Shroofus Sproutsire to Rockysaurus.
+[23:11:16] Rockysaurus sets counter Life to 21 (-7).
+[23:11:17] First Main
+[23:11:17] Rockysaurus sets counter Green to 1 (+1).
+[23:11:17] Rockysaurus sets counter Green to 2 (+1).
+[23:11:18] Rockysaurus sets counter Green to 3 (+1).
+[23:11:18] Rockysaurus sets counter Green to 4 (+1).
+[23:11:18] Rockysaurus sets counter Green to 5 (+1).
+[23:11:18] Rockysaurus sets counter Green to 6 (+1).
+[23:11:20] Rockysaurus sets counter Green to 7 (+1).
+[23:11:24] Chamomi creates token: Saproling Token (1/1).
+[23:11:24] Chamomi creates token: Saproling Token (1/1).
+[23:11:24] Chamomi creates token: Saproling Token (1/1).
+[23:11:24] Chamomi creates token: Saproling Token (1/1).
+[23:11:24] Chamomi creates token: Saproling Token (1/1).
+[23:11:24] Chamomi creates token: Saproling Token (1/1).
+[23:11:24] Chamomi creates token: Saproling Token (1/1).
+
+[23:11:26] AmeisingEO's turn.
+
+[23:11:26] Untap
+[23:11:27] Chamomi taps Shroofus Sproutsire.
+[23:11:28] Rockysaurus taps Swamp.
+[23:11:28] Rockysaurus taps Dragonskull Summit.
+[23:11:31] AmeisingEO untaps their permanents.
+[23:11:34] Rockysaurus untaps Swamp.
+[23:11:34] Rockysaurus untaps Dragonskull Summit.
+[23:11:34] AmeisingEO draws 1 card(s).
+[23:11:44] AmeisingEO puts Memorial to Glory into play from their hand.
+[23:11:45] AmeisingEO taps Memorial to Glory.
+[23:11:48] AmeisingEO taps Port Town.
+[23:11:48] AmeisingEO taps Darkwater Catacombs.
+[23:11:49] AmeisingEO puts Thought Vessel into play from their hand.
+[23:11:57] AmeisingEO taps Island.
+[23:11:58] AmeisingEO taps Meticulous Archive.
+[23:12:10] AmeisingEO untaps Meticulous Archive.
+[23:12:10] AmeisingEO untaps Port Town.
+[23:12:10] AmeisingEO untaps Island.
+[23:12:11] AmeisingEO untaps Darkwater Catacombs.
+[23:12:12] AmeisingEO taps Plains.
+[23:12:13] AmeisingEO untaps Plains.
+[23:12:14] AmeisingEO taps Plains.
+[23:12:16] AmeisingEO taps Plains.
+[23:12:22] AmeisingEO taps Island.
+[23:12:24] AmeisingEO taps Swamp.
+[23:12:32] AmeisingEO taps Meticulous Archive.
+[23:12:38] AmeisingEO puts Moonlit Meditation into play from their hand.
+[23:12:47] AmeisingEO attaches Moonlit Meditation to AmeisingEO's Marneus Calgar.
+[23:12:47] AmeisingEO attaches Moonlit Meditation to AmeisingEO's Marneus Calgar.
+[23:13:25] AmeisingEO untaps Meticulous Archive.
+[23:13:25] AmeisingEO untaps Plains.
+[23:13:25] AmeisingEO untaps Swamp.
+[23:13:25] AmeisingEO untaps Island.
+[23:13:25] AmeisingEO untaps Plains.
+[23:13:26] AmeisingEO taps Meticulous Archive.
+[23:13:26] AmeisingEO taps Plains.
+[23:13:26] AmeisingEO taps Swamp.
+[23:13:26] AmeisingEO taps Island.
+[23:13:26] AmeisingEO taps Plains.
+[23:13:49] AmeisingEO unattaches Moonlit Meditation.
+[23:14:12] AmeisingEO attaches Moonlit Meditation to AmeisingEO's Oketra's Monument.
+[23:14:12] AmeisingEO attaches Moonlit Meditation to AmeisingEO's Oketra's Monument.
+[23:14:18] AmeisingEO taps Port Town.
+[23:14:18] AmeisingEO taps Darkwater Catacombs.
+[23:14:26] AmeisingEO taps Thought Vessel.
+[23:14:29] AmeisingEO puts Nadir Kraken into play from their hand.
+[23:14:38] AmeisingEO creates token: Warrior Token (1/1).
+[23:14:44] AmeisingEO creates token: Oketra's Monument.
+[23:14:53] AmeisingEO draws 1 card(s).
+[23:14:53] AmeisingEO draws 1 card(s).
+[23:15:34] AmeisingEO points from their Marneus Calgar to Astronero.
+[23:15:43] Astronero sets counter Life to 28 (-1).
+[23:15:43] Astronero sets counter Life to 27 (-1).
+[23:15:44] Astronero sets counter Life to 26 (-1).
+[23:15:44] Astronero sets counter Life to 25 (-1).
+[23:15:45] Astronero sets counter Life to 24 (-1).
+[23:15:45] Astronero sets counter Life to 23 (-1).
+[23:15:47] Astronero sets counter White to 1 (+1).
+[23:15:48] Astronero sets counter White to 2 (+1).
+
+[23:15:48] Astronero's turn.
+
+[23:15:48] Untap
+[23:15:48] Astronero sets counter White to 3 (+1).
+[23:15:48] AmeisingEO taps Marneus Calgar.
+[23:15:49] Astronero sets counter White to 4 (+1).
+[23:15:49] Astronero sets counter White to 5 (+1).
+[23:15:49] Astronero sets counter White to 6 (+1).
+[23:15:50] Astronero untaps their permanents.
+[23:15:50] Astronero untaps their permanents.
+[23:15:51] Astronero draws 1 card(s).
+[23:16:47] Astronero places 1 red counter(s) on Cursed Recording (now 2).
+[23:16:57] Astronero taps Cursed Recording.
+[23:17:01] Astronero taps Steam Vents.
+[23:17:01] Astronero taps Training Center.
+[23:17:01] Astronero taps Izzet Signet.
+[23:17:01] Astronero taps Island.
+[23:17:01] Astronero taps Talisman of Indulgence.
+[23:17:03] Astronero taps Cormela, Glamour Thief.
+[23:17:07] Astronero untaps Steam Vents.
+[23:17:07] Astronero untaps Training Center.
+[23:17:07] Astronero untaps Island.
+[23:17:08] Astronero taps Sol Ring.
+[23:17:15] Astronero taps Mountain.
+[23:17:16] Astronero taps Mountain.
+[23:17:19] Astronero taps Sanguine Morass.
+[23:17:21] Astronero plays Clone Legion from their hand.
+[23:17:23] Astronero creates token: Clone Legion.
+[23:17:24] Astronero plays Clone Legion from play.
+[23:17:57] Astronero creates token: Saproling Token (1/1).
+[23:18:12] Astronero places 14 yellow counter(s) on Saproling Token (now 14).
+[23:18:14] Astronero destroys Clone Legion.
+[23:18:14] Astronero puts Clone Legion from the stack into their graveyard.
+[23:18:17] Astronero creates token: Utopia Mycon (0/2).
+[23:18:23] Astronero creates token: Arbor Elf (1/1).
+[23:18:27] Astronero creates token: Primal Bellow.
+[23:18:30] Astronero destroys Primal Bellow.
+[23:18:36] Astronero creates token: Shroofus Sproutsire (1/1).
+[23:18:39] Astronero creates token: Utopia Mycon (0/2).
+[23:18:43] Astronero creates token: Arbor Elf (1/1).
+[23:19:11] Astronero taps Steam Vents.
+[23:19:11] Astronero taps Training Center.
+[23:19:11] Astronero taps Island.
+[23:19:14] Astronero plays Parker Luck from their hand.
+[23:19:41] Astronero puts Parker Luck into play from the stack.
+[23:20:24] Astronero plays Underground River from the top of their library.
+[23:20:28] Chamomi moves the top card of their library to their hand.
+[23:20:30] Astronero moves Underground River from the stack to their hand.
+[23:20:32] Chamomi puts Fungal Rebirth into play from their hand.
+[23:20:35] Astronero sets counter Life to 22 (-1).
+[23:20:35] Astronero sets counter Life to 21 (-1).
+[23:20:35] Astronero sets counter Life to 20 (-1).
+
+[23:20:36] Rockysaurus's turn.
+
+[23:20:36] Untap
+[23:20:40] Rockysaurus untaps their permanents.
+[23:20:42] Chamomi moves Fungal Rebirth from play to their hand.
+[23:20:44] Rockysaurus moves Loxodon Warhammer from the top of their library to their hand.
+[23:20:53] Rockysaurus taps Swamp.
+[23:20:53] Rockysaurus taps Dragonskull Summit.
+[23:20:53] Rockysaurus taps Savai Triome.
+[23:20:58] Rockysaurus untaps Swamp.
+[23:20:58] Rockysaurus untaps Dragonskull Summit.
+[23:20:58] Rockysaurus untaps Savai Triome.
+[23:21:04] Rockysaurus taps Swamp.
+[23:21:05] Rockysaurus taps Command Tower.
+[23:21:06] Rockysaurus taps Vault of Champions.
+[23:21:06] Rockysaurus untaps Command Tower.
+[23:21:07] Rockysaurus taps Plains.
+[23:21:09] Rockysaurus puts Loxodon Warhammer into play from their hand.
+[23:21:23] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 4/2 to 5/2.
+[23:21:23] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 5/2 to 6/2.
+[23:21:24] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 6/2 to 7/2.
+[23:21:55] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 7/2 to 8/2.
+[23:22:15] Rockysaurus attaches Loxodon Warhammer to Rockysaurus's Ardenn, Intrepid Archaeologist.
+[23:22:15] Rockysaurus attaches Cranial Plating to Rockysaurus's Ardenn, Intrepid Archaeologist.
+[23:22:15] Rockysaurus attaches Loxodon Warhammer to Rockysaurus's Ardenn, Intrepid Archaeologist.
+[23:24:20] Chamomi sets counter Life to 36 (-1).
+[23:24:20] Chamomi sets counter Life to 35 (-1).
+[23:24:20] Chamomi sets counter Life to 34 (-1).
+[23:24:20] Chamomi sets counter Life to 33 (-1).
+[23:24:21] Chamomi sets counter Life to 32 (-1).
+[23:24:21] Chamomi sets counter Life to 31 (-1).
+[23:24:21] Chamomi sets counter Life to 30 (-1).
+[23:24:23] Chamomi sets counter Life to 31 (+1).
+[23:24:23] Chamomi sets counter Life to 32 (+1).
+[23:24:24] Chamomi sets counter Life to 33 (+1).
+[23:24:24] Chamomi sets counter Life to 34 (+1).
+[23:24:24] Chamomi sets counter Life to 35 (+1).
+[23:24:24] Chamomi sets counter Life to 36 (+1).
+[23:24:25] Chamomi sets counter Life to 37 (+1).
+
+[23:26:39] Chamomi's turn.
+
+[23:26:39] Untap
+[23:26:44] Chamomi taps Forest.
+[23:26:44] Chamomi taps Arbor Elf.
+[23:26:44] Chamomi taps Saproling Token.
+[23:26:44] Chamomi taps Saproling Token.
+[23:26:44] Chamomi taps Wild Growth.
+[23:26:44] Chamomi taps Saproling Token.
+[23:26:44] Chamomi taps Utopia Mycon.
+[23:26:44] Chamomi taps Saproling Token.
+[23:26:44] Chamomi taps Saproling Token.
+[23:26:44] Chamomi taps Saproling Token.
+[23:26:44] Chamomi taps Forest.
+[23:26:44] Chamomi taps Utopia Sprawl.
+[23:26:44] Chamomi taps Saproling Token.
+[23:26:44] Chamomi taps Forest.
+[23:26:44] Chamomi taps Primal Bellow.
+[23:26:44] Chamomi taps Sol Ring.
+[23:26:45] Chamomi untaps Forest.
+[23:26:45] Chamomi untaps Arbor Elf.
+[23:26:45] Chamomi untaps Saproling Token.
+[23:26:45] Chamomi untaps Forest.
+[23:26:45] Chamomi untaps Saproling Token.
+[23:26:45] Chamomi untaps Wild Growth.
+[23:26:45] Chamomi untaps Forest.
+[23:26:45] Chamomi untaps Saproling Token.
+[23:26:45] Chamomi untaps Utopia Mycon.
+[23:26:45] Chamomi untaps Forest.
+[23:26:45] Chamomi untaps Saproling Token.
+[23:26:45] Chamomi untaps Saproling Token.
+[23:26:45] Chamomi untaps Saproling Token.
+[23:26:45] Chamomi untaps Forest.
+[23:26:45] Chamomi untaps Utopia Sprawl.
+[23:26:45] Chamomi untaps Saproling Token.
+[23:26:45] Chamomi untaps Forest.
+[23:26:45] Chamomi untaps Shroofus Sproutsire.
+[23:26:45] Chamomi untaps Primal Bellow.
+[23:26:45] Chamomi untaps Sol Ring.
+[23:26:46] Upkeep
+[23:26:47] Draw
+[23:26:49] Chamomi moves the top card of their library to their hand.
+[23:26:51] Chamomi changes the PT of Forest from nothing to 1/1.
+[23:26:51] Chamomi changes the PT of Arbor Elf from 1/1 to 2/2.
+[23:26:51] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[23:26:51] Chamomi changes the PT of Forest from nothing to 1/1.
+[23:26:51] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[23:26:51] Chamomi changes the PT of Wild Growth from nothing to 1/1.
+[23:26:51] Chamomi changes the PT of Forest from nothing to 1/1.
+[23:26:51] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[23:26:51] Chamomi changes the PT of Utopia Mycon from 0/2 to 1/3.
+[23:26:51] Chamomi changes the PT of Forest from nothing to 1/1.
+[23:26:51] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[23:26:51] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[23:26:51] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[23:26:51] Chamomi changes the PT of Forest from nothing to 1/1.
+[23:26:51] Chamomi changes the PT of Utopia Sprawl from nothing to 1/1.
+[23:26:51] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[23:26:51] Chamomi changes the PT of Forest from nothing to 1/1.
+[23:26:51] Chamomi changes the PT of Shroofus Sproutsire from 1/1 to 2/2.
+[23:26:51] Chamomi changes the PT of Primal Bellow from nothing to 1/1.
+[23:26:51] Chamomi changes the PT of Sol Ring from nothing to 1/1.
+[23:26:53] Chamomi changes the PT of Forest from 1/1 to 0/0.
+[23:26:53] Chamomi changes the PT of Arbor Elf from 2/2 to 1/1.
+[23:26:53] Chamomi changes the PT of Saproling Token from 2/2 to 1/1.
+[23:26:53] Chamomi changes the PT of Forest from 1/1 to 0/0.
+[23:26:53] Chamomi changes the PT of Saproling Token from 2/2 to 1/1.
+[23:26:53] Chamomi changes the PT of Wild Growth from 1/1 to 0/0.
+[23:26:53] Chamomi changes the PT of Forest from 1/1 to 0/0.
+[23:26:53] Chamomi changes the PT of Saproling Token from 2/2 to 1/1.
+[23:26:53] Chamomi changes the PT of Utopia Mycon from 1/3 to 0/2.
+[23:26:53] Chamomi changes the PT of Forest from 1/1 to 0/0.
+[23:26:53] Chamomi changes the PT of Saproling Token from 2/2 to 1/1.
+[23:26:53] Chamomi changes the PT of Saproling Token from 2/2 to 1/1.
+[23:26:53] Chamomi changes the PT of Saproling Token from 2/2 to 1/1.
+[23:26:53] Chamomi changes the PT of Forest from 1/1 to 0/0.
+[23:26:53] Chamomi changes the PT of Utopia Sprawl from 1/1 to 0/0.
+[23:26:53] Chamomi changes the PT of Saproling Token from 2/2 to 1/1.
+[23:26:53] Chamomi changes the PT of Forest from 1/1 to 0/0.
+[23:26:53] Chamomi changes the PT of Shroofus Sproutsire from 2/2 to 1/1.
+[23:26:53] Chamomi changes the PT of Primal Bellow from 1/1 to 0/0.
+[23:26:53] Chamomi changes the PT of Sol Ring from 1/1 to 0/0.
+[23:27:00] Chamomi places 1 red counter(s) on Utopia Mycon (now 2).
+[23:27:43] Chamomi puts Primal Bellow from play into their graveyard.
+[23:27:59] Chamomi gives AmeisingEO control over Fungal Rebirth.
+[23:27:59] AmeisingEO sets annotation of Fungal Rebirth to "Owner: Chamomi".
+[23:28:07] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[23:28:07] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[23:28:07] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[23:28:07] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[23:28:07] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[23:28:07] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[23:28:07] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[23:28:14] First Main
+[23:28:14] Draw
+[23:28:22] Chamomi taps Wild Growth.
+[23:28:24] Chamomi taps Forest.
+[23:28:31] Chamomi taps Utopia Sprawl.
+[23:28:32] Chamomi taps Forest.
+[23:28:32] AmeisingEO gives Chamomi control over Fungal Rebirth.
+[23:30:10] Chamomi moves Silkguard from their graveyard to their hand.
+[23:30:48] Chamomi puts Hunter's Insight into play from their hand.
+[23:30:48] Chamomi taps Forest.
+[23:30:49] Chamomi taps Forest.
+[23:30:50] Chamomi taps Forest.
+[23:30:52] Chamomi points from their Hunter's Insight to their Shroofus Sproutsire.
+[23:31:10] Chamomi moves Hunter's Insight from play to their hand.
+[23:31:36] Chamomi points from their Saproling Token to Astronero.
+[23:31:36] Chamomi points from their Saproling Token to Astronero.
+[23:31:36] Chamomi points from their Saproling Token to Astronero.
+[23:31:36] Chamomi points from their Saproling Token to Astronero.
+[23:31:36] Chamomi points from their Saproling Token to Astronero.
+[23:31:36] Chamomi points from their Saproling Token to Astronero.
+[23:31:38] First Main
+[23:31:39] Draw
+[23:31:44] Chamomi points from their Saproling Token to Rockysaurus.
+[23:31:44] Chamomi points from their Saproling Token to Rockysaurus.
+[23:31:44] Chamomi points from their Saproling Token to Rockysaurus.
+[23:31:59] Chamomi points from their Saproling Token to Astronero.
+[23:31:59] Chamomi points from their Saproling Token to Astronero.
+[23:31:59] Chamomi points from their Saproling Token to Astronero.
+[23:31:59] Chamomi points from their Saproling Token to Astronero.
+[23:33:00] Chamomi points from their Saproling Token to Rockysaurus.
+[23:33:52] Rockysaurus points from their Ardenn, Intrepid Archaeologist to Chamomi's Saproling Token.
+[23:34:05] Astronero destroys Arbor Elf.
+[23:34:11] Chamomi destroys Saproling Token.
+[23:34:13] Chamomi plays Saproling Token from play.
+[23:34:14] Chamomi destroys Saproling Token.
+[23:34:19] Rockysaurus sets counter Life to 22 (+1).
+[23:34:20] Rockysaurus sets counter Life to 23 (+1).
+[23:34:20] Rockysaurus sets counter Life to 24 (+1).
+[23:34:21] Rockysaurus sets counter Life to 25 (+1).
+[23:34:22] Rockysaurus sets counter Life to 26 (+1).
+[23:34:45] Chamomi sets counter White to 7 (-1).
+[23:34:45] Chamomi sets counter White to 6 (-1).
+[23:34:46] Chamomi sets counter White to 5 (-1).
+[23:34:46] Chamomi sets counter White to 4 (-1).
+[23:34:47] Chamomi sets counter White to 3 (-1).
+[23:34:58] Chamomi creates token: Saproling Token (1/1).
+[23:35:01] Chamomi creates token: Saproling Token (1/1).
+
+[23:35:02] AmeisingEO's turn.
+
+[23:35:02] Untap
+[23:35:07] Chamomi taps Saproling Token.
+[23:35:08] Chamomi taps Saproling Token.
+[23:35:09] Chamomi untaps Saproling Token.
+[23:35:09] Chamomi taps Saproling Token.
+[23:35:11] Chamomi taps Saproling Token.
+[23:35:11] Chamomi taps Saproling Token.
+[23:35:18] Chamomi places 1 red counter(s) on Utopia Mycon (now 3).
+[23:35:34] AmeisingEO untaps their permanents.
+[23:35:37] Chamomi creates token: Saproling Token (1/1).
+[23:35:37] AmeisingEO draws 1 card(s).
+[23:35:53] AmeisingEO puts Island into play from their hand.
+[23:35:54] Chamomi puts Fungal Rebirth from play into their graveyard.
+[23:36:11] AmeisingEO taps Thought Vessel.
+[23:36:16] AmeisingEO destroys Warrior Token .
+[23:36:33] AmeisingEO taps Plains.
+[23:36:34] AmeisingEO taps Plains.
+[23:36:35] AmeisingEO draws 1 card(s).
+[23:36:36] AmeisingEO draws 1 card(s).
+[23:36:47] AmeisingEO creates token: Tentacle Token (1/1).
+[23:36:56] AmeisingEO creates token: Oketra's Monument.
+[23:37:39] AmeisingEO changes the PT of Nadir Kraken from 2/3 to 3/4.
+[23:37:40] AmeisingEO changes the PT of Nadir Kraken from 3/4 to 4/5.
+[23:38:00] AmeisingEO taps Memorial to Glory.
+[23:38:01] AmeisingEO taps Port Town.
+[23:38:04] AmeisingEO puts Exalted Sunborn into play from their hand.
+[23:38:25] AmeisingEO creates token: Warrior Token (1/1).
+[23:38:29] AmeisingEO creates token: Warrior Token (1/1).
+[23:38:41] AmeisingEO creates token: Warrior Token (1/1).
+[23:38:42] AmeisingEO creates token: Warrior Token (1/1).
+[23:38:44] AmeisingEO creates token: Warrior Token (1/1).
+[23:38:45] AmeisingEO creates token: Warrior Token (1/1).
+[23:39:36] AmeisingEO destroys Oketra's Monument.
+[23:39:41] AmeisingEO destroys Warrior Token .
+[23:39:41] AmeisingEO destroys Warrior Token .
+[23:39:41] AmeisingEO destroys Warrior Token .
+[23:39:43] AmeisingEO moves Exalted Sunborn from play to their hand.
+[23:39:45] AmeisingEO untaps Thought Vessel.
+[23:39:46] AmeisingEO untaps Plains.
+[23:39:46] AmeisingEO untaps Plains.
+[23:39:47] AmeisingEO untaps Memorial to Glory.
+[23:39:47] AmeisingEO untaps Port Town.
+[23:40:02] AmeisingEO destroys Warrior Token .
+[23:40:02] AmeisingEO destroys Warrior Token .
+[23:40:02] AmeisingEO destroys Warrior Token .
+[23:40:19] AmeisingEO unattaches Moonlit Meditation.
+[23:40:23] AmeisingEO destroys Oketra's Monument.
+[23:40:29] AmeisingEO places 1 green counter(s) on Nadir Kraken (now 1).
+[23:40:37] AmeisingEO removes 1 green counter(s) from Nadir Kraken (now 0).
+[23:40:40] AmeisingEO changes the PT of Nadir Kraken from 4/5 to 3/4.
+[23:40:40] AmeisingEO changes the PT of Nadir Kraken from 3/4 to 2/3.
+[23:40:43] AmeisingEO destroys Tentacle Token.
+[23:41:17] AmeisingEO attaches Moonlit Meditation to AmeisingEO's Thought Vessel.
+[23:41:17] AmeisingEO attaches Moonlit Meditation to AmeisingEO's Thought Vessel.
+[23:41:53] AmeisingEO taps Plains.
+[23:41:53] AmeisingEO taps Plains.
+[23:41:54] AmeisingEO taps Moonlit Meditation.
+[23:41:56] AmeisingEO untaps Moonlit Meditation.
+[23:41:56] AmeisingEO taps Thought Vessel.
+[23:41:58] AmeisingEO creates token: Tentacle Token (1/1).
+[23:42:00] AmeisingEO changes the PT of Nadir Kraken from 2/3 to 3/4.
+[23:42:01] AmeisingEO changes the PT of Nadir Kraken from 3/4 to 4/5.
+[23:42:07] AmeisingEO creates token: Thought Vessel.
+[23:43:37] AmeisingEO taps Meticulous Archive.
+[23:43:38] AmeisingEO taps Swamp.
+[23:43:39] AmeisingEO puts Charismatic Conqueror into play from their hand.
+[23:43:48] AmeisingEO untaps Swamp.
+[23:43:52] AmeisingEO taps Thought Vessel.
+[23:43:56] AmeisingEO creates token: Tentacle Token (1/1).
+[23:43:59] AmeisingEO changes the PT of Nadir Kraken from 4/5 to 5/6.
+[23:44:01] AmeisingEO draws 1 card(s).
+[23:44:33] AmeisingEO taps Swamp.
+[23:44:36] AmeisingEO creates token: Tentacle Token (1/1).
+[23:44:37] AmeisingEO changes the PT of Nadir Kraken from 5/6 to 6/7.
+[23:44:39] AmeisingEO draws 1 card(s).
+[23:44:43] AmeisingEO taps Memorial to Glory.
+[23:44:46] AmeisingEO changes the PT of Nadir Kraken from 6/7 to 7/8.
+[23:44:48] AmeisingEO creates token: Tentacle Token (1/1).
+[23:44:50] AmeisingEO draws 1 card(s).
+[23:45:06] AmeisingEO taps Island.
+[23:45:08] AmeisingEO creates token: Tentacle Token (1/1).
+[23:45:10] AmeisingEO changes the PT of Nadir Kraken from 7/8 to 8/9.
+[23:45:11] AmeisingEO draws 1 card(s).
+[23:45:57] AmeisingEO taps Port Town.
+[23:46:03] AmeisingEO destroys Tentacle Token.
+[23:46:04] AmeisingEO draws 1 card(s).
+[23:46:06] AmeisingEO draws 1 card(s).
+[23:46:21] AmeisingEO untaps Meticulous Archive.
+[23:46:21] AmeisingEO taps Island.
+[23:46:53] AmeisingEO creates token: Warrior Token (1/1).
+
+[23:47:52] Astronero's turn.
+
+[23:47:52] Untap
+[23:47:59] Astronero removes 1 yellow counter(s) from Saproling Token (now 13).
+[23:48:00] Astronero taps Swamp.
+[23:48:00] Astronero taps Luxury Suite.
+[23:48:03] Astronero plays Brainsurge from their hand.
+[23:48:11] Astronero puts Brainsurge from the stack into their graveyard.
+[23:48:11] Astronero draws 1 card(s).
+[23:48:12] Astronero draws 1 card(s).
+[23:48:13] Astronero draws 1 card(s).
+[23:48:13] Astronero draws 1 card(s).
+[23:48:21] Astronero puts a card from their hand on top of their library.
+[23:48:23] Astronero puts a card from their hand on top of their library.
+[23:48:26] Astronero untaps their permanents.
+[23:48:26] Astronero untaps their permanents.
+[23:48:30] Astronero moves the top card of their library to their hand.
+[23:48:32] Astronero moves the top card of their library to their hand.
+[23:48:33] Astronero puts a card from their hand on top of their library.
+[23:48:48] Astronero puts Cruel Entertainment into play from their hand.
+[23:49:04] Astronero moves Cruel Entertainment from play to their hand.
+[23:49:23] Astronero taps Mountain.
+[23:49:24] Astronero taps Cormela, Glamour Thief.
+[23:49:28] Astronero plays Crosis's Charm from their hand.
+[23:49:30] Astronero points from their Crosis's Charm to Rockysaurus's Ardenn, Intrepid Archaeologist.
+[23:49:36] Rockysaurus unattaches Cranial Plating.
+[23:49:36] Rockysaurus unattaches Loxodon Warhammer.
+[23:49:36] Rockysaurus moves Ardenn, Intrepid Archaeologist from play to their hand.
+[23:49:38] Astronero puts Crosis's Charm from the stack into their graveyard.
+[23:49:47] Astronero taps Saproling Token.
+[23:50:03] Astronero puts Underground River into play from their hand.
+[23:51:03] Astronero taps Talisman of Indulgence.
+[23:51:04] Astronero taps Izzet Signet.
+[23:51:05] Astronero puts Smoldering Egg into play from their hand.
+[23:51:22] Astronero taps Arbor Elf.
+[23:51:22] Astronero untaps Mountain.
+[23:51:27] Astronero destroys Smoldering Egg.
+[23:51:27] Astronero creates token: Ashmouth Dragon (4/4).
+[23:51:34] Astronero destroys Ashmouth Dragon.
+[23:51:34] Astronero creates token: Smoldering Egg (0/4).
+[23:51:46] Astronero taps Smoldering Egg.
+[23:52:06] Astronero taps Swamp.
+[23:52:06] Astronero taps Luxury Suite.
+[23:52:08] Astronero plays Rakdos Signet from their hand.
+[23:52:11] Astronero puts Rakdos Signet into play from the stack.
+[23:52:25] Astronero points from their Saproling Token to Rockysaurus.
+[23:52:27] Astronero taps Shroofus Sproutsire.
+[23:52:28] Astronero points from their Shroofus Sproutsire to Rockysaurus.
+[23:52:30] Astronero creates token: Saproling Token (1/1).
+[23:52:33] Rockysaurus sets counter Life to 12 (-14).
+[23:52:36] Astronero places 14 yellow counter(s) on Saproling Token (now 14).
+[23:52:40] Astronero taps Saproling Token.
+[23:52:53] Astronero taps Island.
+[23:52:53] Astronero taps Training Center.
+[23:52:59] Astronero taps Steam Vents.
+[23:53:01] Astronero plays Prismari Command from their hand.
+[23:53:03] Astronero points from their Prismari Command to AmeisingEO's Charismatic Conqueror.
+[23:53:05] Astronero untaps Saproling Token.
+[23:53:14] AmeisingEO puts Charismatic Conqueror from play into their graveyard.
+[23:53:27] Astronero puts Prismari Command from the stack into their graveyard.
+[23:53:29] Astronero plays Prismari Command from their graveyard.
+[23:53:32] Astronero puts Prismari Command from the stack into their graveyard.
+[23:53:41] Astronero plays Prismari Command from their graveyard.
+[23:53:42] Astronero taps Cursed Recording.
+[23:53:45] Astronero places 1 red counter(s) on Cursed Recording (now 3).
+[23:53:49] Astronero points from their Prismari Command to Chamomi's Shroofus Sproutsire.
+[23:54:16] Astronero places 1 red counter(s) on Smoldering Egg (now 1).
+[23:54:17] Astronero places 1 red counter(s) on Smoldering Egg (now 2).
+[23:54:19] Astronero places 1 red counter(s) on Smoldering Egg (now 3).
+[23:54:21] Astronero puts Prismari Command from the stack into their graveyard.
+[23:54:45] Astronero plays Prismari Command from their graveyard.
+[23:54:52] Astronero puts Prismari Command from the stack into their graveyard.
+[23:55:00] Rockysaurus creates token: Treasure Token.
+[23:55:03] Rockysaurus places 1 yellow counter(s) on Treasure Token (now 1).
+[23:55:14] Rockysaurus plays Steelshaper's Gift from the top of their library.
+[23:55:17] Astronero plays Commandeer from the top of their library.
+[23:55:25] Astronero sets counter Life to 19 (-1).
+[23:55:29] Astronero moves Commandeer from the stack to their hand.
+[23:55:33] Rockysaurus sets counter Life to 5 (-7).
+[23:55:34] Rockysaurus moves Steelshaper's Gift from the stack to their hand.
+
+[23:55:36] Rockysaurus's turn.
+
+[23:55:36] Untap
+[23:55:38] Rockysaurus untaps their permanents.
+[23:55:41] Rockysaurus moves Relentless Assault from the top of their library to their hand.
+[23:56:26] Rockysaurus taps Swamp.
+[23:56:26] Rockysaurus taps Dragonskull Summit.
+[23:56:26] Rockysaurus taps Savai Triome.
+[23:56:30] Rockysaurus puts Ardenn, Intrepid Archaeologist into play from their hand.
+[23:56:41] Rockysaurus taps Plains.
+[23:56:48] Rockysaurus places 1 yellow counter(s) on Treasure Token (now 2).
+[23:56:53] Rockysaurus puts Steelshaper's Gift into play from their hand.
+[23:56:57] Rockysaurus puts Steelshaper's Gift from play into their graveyard.
+[23:56:59] Rockysaurus is looking at their library.
+[23:58:11] Rockysaurus puts Sword of Vengeance into play from their library.
+[23:59:06] Rockysaurus shuffles their library.
+[23:59:07] Rockysaurus taps Command Tower.
+[23:59:08] Rockysaurus taps Vault of Champions.
+[23:59:09] Rockysaurus taps Orzhov Signet.
+[23:59:58] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 2/2 to 3/2.
+[23:59:58] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 3/2 to 3/2.
+[23:59:58] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 3/2 to 4/2.
+[23:59:58] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 4/2 to 4/2.
+[23:59:58] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 4/2 to 5/2.
+[23:59:59] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 5/2 to 5/2.
+[23:59:59] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 5/2 to 6/2.
+[23:59:59] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 6/2 to 7/2.
+[00:00:00] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 7/2 to 8/2.
+[00:00:00] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 8/2 to 9/2.
+[00:00:01] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 9/2 to 10/2.
+[00:00:02] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 10/2 to 11/2.
+[00:00:09] Rockysaurus attaches Loxodon Warhammer to Rockysaurus's Ardenn, Intrepid Archaeologist.
+[00:00:09] Rockysaurus attaches Sword of Vengeance to Rockysaurus's Ardenn, Intrepid Archaeologist.
+[00:00:09] Rockysaurus attaches Cranial Plating to Rockysaurus's Ardenn, Intrepid Archaeologist.
+[00:00:09] Rockysaurus attaches Loxodon Warhammer to Rockysaurus's Ardenn, Intrepid Archaeologist.
+[00:00:29] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 11/2 to 12/3.
+[00:00:29] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 12/3 to 13/4.
+[00:00:31] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 13/4 to 12/3.
+[00:00:31] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 12/3 to 11/2.
+[00:00:32] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 11/2 to 12/2.
+[00:00:32] Rockysaurus changes the PT of Ardenn, Intrepid Archaeologist from 12/2 to 13/2.
+[00:00:46] Rockysaurus points from their Ardenn, Intrepid Archaeologist to Chamomi.
+[00:00:46] Rockysaurus points from their Sword of Vengeance to Chamomi.
+[00:00:46] Rockysaurus points from their Cranial Plating to Chamomi.
+[00:00:46] Rockysaurus points from their Loxodon Warhammer to Chamomi.
+[00:01:37] Chamomi puts Arachnogenesis into play from their hand.
+[00:01:43] Chamomi taps Sol Ring.
+[00:01:45] Chamomi taps Arbor Elf.
+
+[00:02:01] Chamomi's turn.
+
+[00:02:01] Untap
+[00:02:06] Chamomi moves Arachnogenesis from play to their hand.
+[00:02:08] Chamomi taps Saproling Token.
+[00:02:08] Chamomi taps Saproling Token.
+[00:02:08] Chamomi taps Forest.
+[00:02:08] Chamomi taps Utopia Mycon.
+[00:02:08] Chamomi taps Saproling Token.
+[00:02:08] Chamomi taps Shroofus Sproutsire.
+[00:02:08] Chamomi taps Saproling Token.
+[00:02:09] Chamomi untaps Forest.
+[00:02:09] Chamomi untaps Saproling Token.
+[00:02:09] Chamomi untaps Arbor Elf.
+[00:02:09] Chamomi untaps Forest.
+[00:02:09] Chamomi untaps Saproling Token.
+[00:02:09] Chamomi untaps Wild Growth.
+[00:02:09] Chamomi untaps Saproling Token.
+[00:02:09] Chamomi untaps Forest.
+[00:02:09] Chamomi untaps Saproling Token.
+[00:02:09] Chamomi untaps Utopia Mycon.
+[00:02:09] Chamomi untaps Forest.
+[00:02:09] Chamomi untaps Saproling Token.
+[00:02:09] Chamomi untaps Saproling Token.
+[00:02:09] Chamomi untaps Forest.
+[00:02:09] Chamomi untaps Utopia Sprawl.
+[00:02:09] Chamomi untaps Saproling Token.
+[00:02:09] Chamomi untaps Forest.
+[00:02:09] Chamomi untaps Shroofus Sproutsire.
+[00:02:09] Chamomi untaps Saproling Token.
+[00:02:09] Chamomi untaps Sol Ring.
+[00:02:11] Upkeep
+[00:02:12] Draw
+[00:02:13] Chamomi moves the top card of their library to their hand.
+[00:02:21] Chamomi puts Arachnogenesis from their hand into their graveyard.
+[00:02:32] Chamomi points from their Saproling Token to Astronero.
+[00:02:32] Chamomi points from their Saproling Token to Astronero.
+[00:02:32] Chamomi points from their Saproling Token to Astronero.
+[00:02:32] Chamomi points from their Saproling Token to Astronero.
+[00:02:32] Chamomi points from their Saproling Token to Astronero.
+[00:02:32] Chamomi points from their Saproling Token to Astronero.
+[00:02:32] Chamomi points from their Saproling Token to Astronero.
+[00:02:32] Chamomi points from their Saproling Token to Astronero.
+[00:02:35] Chamomi points from their Arbor Elf to Astronero.
+[00:02:42] Chamomi taps Forest.
+[00:02:42] Chamomi taps Forest.
+[00:02:42] Chamomi taps Wild Growth.
+[00:02:42] Chamomi taps Forest.
+[00:02:42] Chamomi taps Forest.
+[00:02:42] Chamomi taps Forest.
+[00:02:42] Chamomi taps Utopia Sprawl.
+[00:02:42] Chamomi taps Forest.
+[00:02:44] Chamomi taps Sol Ring.
+[00:03:05] Chamomi untaps Forest.
+[00:03:06] Chamomi untaps Sol Ring.
+[00:03:14] Chamomi taps Arbor Elf.
+[00:03:14] Chamomi untaps Arbor Elf.
+[00:03:19] Chamomi puts Silkguard into play from their hand.
+[00:03:45] Chamomi sets counter Life to 38 (+1).
+[00:03:46] Chamomi sets counter Life to 37 (-1).
+[00:03:55] First Main
+[00:03:55] Draw
+[00:03:58] Chamomi points from their Saproling Token to Rockysaurus.
+[00:03:58] Chamomi points from their Saproling Token to Rockysaurus.
+[00:03:58] Chamomi points from their Saproling Token to Rockysaurus.
+[00:03:58] Chamomi points from their Saproling Token to Rockysaurus.
+[00:03:58] Chamomi points from their Saproling Token to Rockysaurus.
+[00:03:58] Chamomi points from their Saproling Token to Rockysaurus.
+[00:03:58] Chamomi points from their Saproling Token to Rockysaurus.
+[00:03:58] Chamomi points from their Saproling Token to Rockysaurus.
+[00:04:09] Rockysaurus points from their Ardenn, Intrepid Archaeologist to Chamomi's Saproling Token.
+[00:04:15] Rockysaurus sets counter Life to 6 (+1).
+[00:04:15] Rockysaurus sets counter Life to 7 (+1).
+[00:04:15] Rockysaurus sets counter Life to 8 (+1).
+[00:04:15] Rockysaurus sets counter Life to 9 (+1).
+[00:04:16] Rockysaurus sets counter Life to 10 (+1).
+[00:04:19] Rockysaurus sets counter Life to 9 (-1).
+[00:04:19] Rockysaurus sets counter Life to 8 (-1).
+[00:04:20] Rockysaurus sets counter Life to 7 (-1).
+[00:04:20] Rockysaurus sets counter Life to 6 (-1).
+[00:04:21] Rockysaurus sets counter Life to 5 (-1).
+[00:04:27] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[00:04:27] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[00:04:27] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[00:04:27] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[00:04:27] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[00:04:27] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[00:04:27] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[00:04:27] Chamomi changes the PT of Saproling Token from 1/1 to 2/2.
+[00:04:28] Chamomi changes the PT of Saproling Token from 2/2 to 3/3.
+[00:04:28] Chamomi changes the PT of Saproling Token from 2/2 to 3/3.
+[00:04:28] Chamomi changes the PT of Saproling Token from 2/2 to 3/3.
+[00:04:28] Chamomi changes the PT of Saproling Token from 2/2 to 3/3.
+[00:04:28] Chamomi changes the PT of Saproling Token from 2/2 to 3/3.
+[00:04:28] Chamomi changes the PT of Saproling Token from 2/2 to 3/3.
+[00:04:28] Chamomi changes the PT of Saproling Token from 2/2 to 3/3.
+[00:04:28] Chamomi changes the PT of Saproling Token from 2/2 to 3/3.
+[00:04:28] Chamomi changes the PT of Saproling Token from 3/3 to 4/4.
+[00:04:28] Chamomi changes the PT of Saproling Token from 3/3 to 4/4.
+[00:04:28] Chamomi changes the PT of Saproling Token from 3/3 to 4/4.
+[00:04:28] Chamomi changes the PT of Saproling Token from 3/3 to 4/4.
+[00:04:28] Chamomi changes the PT of Saproling Token from 3/3 to 4/4.
+[00:04:28] Chamomi changes the PT of Saproling Token from 3/3 to 4/4.
+[00:04:28] Chamomi changes the PT of Saproling Token from 3/3 to 4/4.
+[00:04:28] Chamomi changes the PT of Saproling Token from 3/3 to 4/4.
+[00:04:28] Chamomi changes the PT of Saproling Token from 4/4 to 5/5.
+[00:04:28] Chamomi changes the PT of Saproling Token from 4/4 to 5/5.
+[00:04:28] Chamomi changes the PT of Saproling Token from 4/4 to 5/5.
+[00:04:28] Chamomi changes the PT of Saproling Token from 4/4 to 5/5.
+[00:04:28] Chamomi changes the PT of Saproling Token from 4/4 to 5/5.
+[00:04:28] Chamomi changes the PT of Saproling Token from 4/4 to 5/5.
+[00:04:28] Chamomi changes the PT of Saproling Token from 4/4 to 5/5.
+[00:04:28] Chamomi changes the PT of Saproling Token from 4/4 to 5/5.
+[00:04:28] Chamomi changes the PT of Saproling Token from 5/5 to 6/6.
+[00:04:28] Chamomi changes the PT of Saproling Token from 5/5 to 6/6.
+[00:04:28] Chamomi changes the PT of Saproling Token from 5/5 to 6/6.
+[00:04:28] Chamomi changes the PT of Saproling Token from 5/5 to 6/6.
+[00:04:28] Chamomi changes the PT of Saproling Token from 5/5 to 6/6.
+[00:04:28] Chamomi changes the PT of Saproling Token from 5/5 to 6/6.
+[00:04:28] Chamomi changes the PT of Saproling Token from 5/5 to 6/6.
+[00:04:28] Chamomi changes the PT of Saproling Token from 5/5 to 6/6.
+[00:04:32] Chamomi taps Sol Ring.
+[00:04:32] Chamomi taps Arbor Elf.
+[00:04:33] Chamomi taps Forest.
+[00:04:34] Chamomi taps Utopia Mycon.
+[00:04:48] Astronero places 140 yellow counter(s) on Saproling Token (now 153).
+[00:04:50] Astronero removes 1 yellow counter(s) from Saproling Token (now 152).
+[00:05:00] Astronero removes 144 yellow counter(s) from Saproling Token (now 8).
+[00:05:04] Astronero taps Underground River.
+[00:05:05] Astronero taps Mountain.
+[00:05:06] Chamomi exiles Silkguard from play.
+[00:05:14] Astronero plays Commandeer from their hand.
+[00:05:19] Astronero destroys Smoldering Egg.
+[00:05:19] Astronero creates token: Ashmouth Dragon (4/4).
+[00:05:19] Astronero untaps Ashmouth Dragon.
+[00:05:19] Astronero places 3 red counter(s) on Ashmouth Dragon (now 3).
+[00:05:21] Astronero destroys Ashmouth Dragon.
+[00:05:21] Astronero creates token: Smoldering Egg (0/4).
+[00:05:21] Astronero places 3 red counter(s) on Smoldering Egg (now 3).
+[00:05:23] Astronero destroys Smoldering Egg.
+[00:05:23] Astronero creates token: Ashmouth Dragon (4/4).
+[00:05:23] Astronero places 3 red counter(s) on Ashmouth Dragon (now 3).
+[00:05:25] Astronero taps Ashmouth Dragon.
+[00:05:35] Astronero points from their Commandeer to Chamomi's Shroofus Sproutsire.
+[00:05:50] Chamomi gives Astronero control over Silkguard.
+[00:05:50] Astronero sets annotation of Silkguard to "Owner: Chamomi".
+[00:06:04] Astronero places 80 yellow counter(s) on Saproling Token (now 94).
+[00:06:10] Astronero removes 85 yellow counter(s) from Saproling Token (now 9).
+[00:06:13] Astronero creates token: Saproling Token (1/1).
+[00:06:20] Astronero places 5 yellow counter(s) on Saproling Token (now 5).
+
+[00:06:21] AmeisingEO's turn.
+
+[00:06:21] Untap
+[00:06:28] Chamomi points from their Saproling Token to Rockysaurus's Aggravated Assault.
+[00:06:28] Chamomi points from their Saproling Token to Rockysaurus's Aggravated Assault.
+[00:06:28] Chamomi points from their Saproling Token to Rockysaurus's Aggravated Assault.
+[00:06:28] Chamomi points from their Saproling Token to Rockysaurus's Aggravated Assault.
+[00:06:28] Chamomi points from their Saproling Token to Rockysaurus's Aggravated Assault.
+[00:06:28] Chamomi points from their Saproling Token to Rockysaurus's Aggravated Assault.
+[00:06:28] Chamomi points from their Saproling Token to Rockysaurus's Aggravated Assault.
+[00:06:28] Chamomi points from their Saproling Token to Rockysaurus's Aggravated Assault.
+[00:06:33] Chamomi points from their Saproling Token to Rockysaurus.
+[00:06:33] Chamomi points from their Saproling Token to Rockysaurus.
+[00:06:33] Chamomi points from their Saproling Token to Rockysaurus.
+[00:06:33] Chamomi points from their Saproling Token to Rockysaurus.
+[00:06:33] Chamomi points from their Saproling Token to Rockysaurus.
+[00:06:33] Chamomi points from their Saproling Token to Rockysaurus.
+[00:06:33] Chamomi points from their Saproling Token to Rockysaurus.
+[00:06:33] Chamomi points from their Saproling Token to Rockysaurus.
+[00:06:49] Astronero changes the PT of Saproling Token from 1/1 to 2/2.
+[00:06:50] Chamomi points from their Saproling Token to Rockysaurus's Cranial Plating.
+[00:06:50] Chamomi points from their Saproling Token to Rockysaurus's Cranial Plating.
+[00:06:50] Chamomi points from their Saproling Token to Rockysaurus's Cranial Plating.
+[00:06:50] Chamomi points from their Saproling Token to Rockysaurus's Cranial Plating.
+[00:06:50] Chamomi points from their Saproling Token to Rockysaurus's Cranial Plating.
+[00:06:50] Chamomi points from their Saproling Token to Rockysaurus's Cranial Plating.
+[00:06:50] Chamomi points from their Saproling Token to Rockysaurus's Cranial Plating.
+[00:06:50] Chamomi points from their Saproling Token to Rockysaurus's Cranial Plating.
+[00:06:53] Chamomi points from their Saproling Token to Rockysaurus's Plains.
+[00:06:53] Chamomi points from their Saproling Token to Rockysaurus's Plains.
+[00:06:53] Chamomi points from their Saproling Token to Rockysaurus's Plains.
+[00:06:53] Chamomi points from their Saproling Token to Rockysaurus's Plains.
+[00:06:53] Chamomi points from their Saproling Token to Rockysaurus's Plains.
+[00:06:53] Chamomi points from their Saproling Token to Rockysaurus's Plains.
+[00:06:53] Chamomi points from their Saproling Token to Rockysaurus's Plains.
+[00:06:53] Chamomi points from their Saproling Token to Rockysaurus's Plains.
+[00:06:53] Astronero puts Silkguard from play into their graveyard.
+[00:06:56] Chamomi points from their Saproling Token to Rockysaurus's Savai Triome.
+[00:06:56] Chamomi points from their Saproling Token to Rockysaurus's Savai Triome.
+[00:06:56] Chamomi points from their Saproling Token to Rockysaurus's Savai Triome.
+[00:06:56] Chamomi points from their Saproling Token to Rockysaurus's Savai Triome.
+[00:06:56] Chamomi points from their Saproling Token to Rockysaurus's Savai Triome.
+[00:06:56] Chamomi points from their Saproling Token to Rockysaurus's Savai Triome.
+[00:06:56] Chamomi points from their Saproling Token to Rockysaurus's Savai Triome.
+[00:06:56] Chamomi points from their Saproling Token to Rockysaurus's Savai Triome.
+[00:06:56] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[00:06:56] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[00:06:56] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[00:06:56] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[00:06:56] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[00:06:56] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[00:06:56] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[00:06:56] Rockysaurus points from Chamomi's Saproling Token to AmeisingEO.
+[00:07:19] Astronero puts Commandeer from the stack into their graveyard.
+[00:07:21] Rockysaurus points from their Ardenn, Intrepid Archaeologist to Chamomi's Saproling Token.
+[00:07:28] Rockysaurus sets counter Life to 6 (+1).
+[00:07:28] Rockysaurus sets counter Life to 7 (+1).
+[00:07:28] Rockysaurus sets counter Life to 8 (+1).
+[00:07:28] Rockysaurus sets counter Life to 9 (+1).
+[00:07:29] Rockysaurus sets counter Life to 10 (+1).
+[00:07:32] Chamomi is looking at their sideboard.
+[00:07:34] Chamomi is looking at their library.
+[00:07:36] Chamomi shuffles their library.
+[00:07:39] Chamomi has conceded the game.
+[00:07:42] AmeisingEO untaps their permanents.
+[00:07:46] AmeisingEO draws 1 card(s).
+[00:08:24] AmeisingEO puts Plains into play from their hand.
+[00:09:02] AmeisingEO taps Meticulous Archive.
+[00:09:02] AmeisingEO taps Island.
+[00:09:02] AmeisingEO taps Moonlit Meditation.
+[00:09:02] AmeisingEO taps Plains.
+[00:09:02] AmeisingEO taps Port Town.
+[00:09:02] AmeisingEO taps Plains.
+[00:09:02] AmeisingEO taps Swamp.
+[00:09:02] AmeisingEO taps Island.
+[00:09:02] AmeisingEO taps Thought Vessel.
+[00:09:02] AmeisingEO taps Darkwater Catacombs.
+[00:09:02] AmeisingEO taps Thought Vessel.
+[00:09:02] AmeisingEO taps Memorial to Glory.
+[00:09:02] AmeisingEO taps Plains.
+[00:09:03] AmeisingEO untaps Meticulous Archive.
+[00:09:04] AmeisingEO untaps Darkwater Catacombs.
+[00:09:18] AmeisingEO untaps their permanents.
+[00:09:25] AmeisingEO taps Thought Vessel.
+[00:09:26] AmeisingEO taps Thought Vessel.
+[00:09:28] AmeisingEO taps Memorial to Glory.
+[00:09:46] AmeisingEO puts Ashnod's Altar into play from their hand.
+[00:10:16] Astronero places 1 yellow counter(s) on Utopia Mycon (now 1).
+[00:10:16] Astronero places 1 yellow counter(s) on Utopia Mycon (now 1).
+[00:11:37] AmeisingEO puts Exalted Sunborn into play from their hand.
+[00:11:40] AmeisingEO taps Plains.
+[00:11:45] AmeisingEO taps Swamp.
+[00:11:46] AmeisingEO taps Island.
+[00:11:46] AmeisingEO untaps Island.
+[00:11:47] AmeisingEO taps Plains.
+[00:12:20] AmeisingEO destroys Warrior Token .
+[00:12:23] AmeisingEO untaps Plains.
+[00:12:24] AmeisingEO untaps Plains.
+[00:12:25] AmeisingEO untaps Swamp.
+[00:12:25] AmeisingEO taps Plains.
+[00:12:27] AmeisingEO taps Swamp.
+[00:12:46] AmeisingEO taps Plains.
+[00:12:46] AmeisingEO untaps Swamp.
+[00:12:47] AmeisingEO taps Swamp.
+[00:12:52] AmeisingEO untaps Swamp.
+[00:13:04] AmeisingEO creates token: Warrior Token (1/1).
+[00:13:21] AmeisingEO untaps Memorial to Glory.
+[00:13:22] AmeisingEO taps Memorial to Glory.
+[00:13:39] AmeisingEO creates token: Warrior Token (1/1).
+[00:13:43] AmeisingEO draws 1 card(s).
+[00:13:57] AmeisingEO destroys Warrior Token .
+[00:14:00] AmeisingEO sets counter Black to 1 (+1).
+[00:14:03] AmeisingEO changes the PT of Nadir Kraken from 8/9 to 9/10.
+[00:14:05] AmeisingEO creates token: Tentacle Token (1/1).
+[00:14:12] AmeisingEO creates token: Tentacle Token (1/1).
+[00:14:22] AmeisingEO draws 1 card(s).
+[00:14:26] AmeisingEO sets counter Black to 0 (-1).
+[00:14:28] AmeisingEO changes the PT of Nadir Kraken from 9/10 to 10/11.
+[00:14:54] AmeisingEO puts Moonshaker Cavalry into play from their hand.
+[00:15:29] Astronero taps Sanguine Morass.
+[00:15:29] Astronero taps Mountain.
+[00:15:29] Astronero taps Rakdos Signet.
+[00:15:31] Astronero plays Saw in Half from their hand.
+[00:15:35] Astronero points from their Saw in Half to their Cormela, Glamour Thief.
+[00:15:46] Astronero plays Galvanic Iteration from their hand.
+[00:15:49] AmeisingEO moves Moonshaker Cavalry from play to their hand.
+[00:15:49] Astronero creates token: Saw in Half.
+[00:15:50] AmeisingEO taps Plains.
+[00:15:51] Astronero plays Saw in Half from play.
+[00:15:53] Astronero points from their Galvanic Iteration to their Saw in Half.
+[00:15:54] Astronero points from their Saw in Half to their Saw in Half.
+[00:15:57] Astronero points from their Saw in Half to their Cormela, Glamour Thief.
+[00:16:06] Astronero puts Galvanic Iteration from the stack into their graveyard.
+[00:16:07] Astronero destroys Saw in Half.
+[00:16:08] AmeisingEO taps Island.
+[00:16:08] AmeisingEO taps Swamp.
+[00:16:13] AmeisingEO puts Deny the Witch into play from their hand.
+[00:16:17] AmeisingEO taps Meticulous Archive.
+[00:16:33] Astronero sets counter Life to 18 (-1).
+[00:16:33] Astronero sets counter Life to 17 (-1).
+[00:16:34] Astronero sets counter Life to 16 (-1).
+[00:16:34] Astronero sets counter Life to 15 (-1).
+[00:16:34] Astronero sets counter Life to 14 (-1).
+[00:16:34] Astronero sets counter Life to 13 (-1).
+[00:16:34] Astronero sets counter Life to 12 (-1).
+[00:16:35] Astronero sets counter Life to 11 (-1).
+[00:16:35] Astronero sets counter Life to 10 (-1).
+[00:16:36] Astronero sets counter Life to 9 (-1).
+[00:16:38] Astronero puts Saw in Half from the stack into their graveyard.
+[00:16:42] Astronero changes the PT of Cormela, Glamour Thief from 2/4 to 1/3.
+[00:16:43] Astronero changes the PT of Cormela, Glamour Thief from 1/3 to 0/3.
+[00:16:45] Astronero changes the PT of Cormela, Glamour Thief from 0/3 to 1/3.
+[00:16:46] Astronero changes the PT of Cormela, Glamour Thief from 1/3 to 1/2.
+[00:16:56] Astronero plays Saw in Half from their graveyard.
+[00:16:56] Astronero plays Galvanic Iteration from their graveyard.
+[00:17:00] Astronero plays Galvanic Iteration from the stack.
+[00:17:01] Astronero points from their Galvanic Iteration to their Saw in Half.
+[00:17:20] Astronero puts Galvanic Iteration from the stack into their graveyard.
+[00:17:22] Astronero puts Saw in Half from the stack into their graveyard.
+[00:17:25] AmeisingEO puts Deny the Witch from play into their graveyard.
+[00:17:48] AmeisingEO untaps Plains.
+[00:17:49] AmeisingEO taps Port Town.
+[00:17:50] AmeisingEO untaps Port Town.
+[00:17:54] AmeisingEO taps Plains.
+[00:18:11] Astronero moves Crosis's Charm from their graveyard to their hand.
+[00:18:13] AmeisingEO untaps Plains.
+[00:18:17] AmeisingEO sets counter Black to 1 (+1).
+[00:18:41] AmeisingEO taps Plains.
+[00:19:02] Astronero moves Brainsurge from their graveyard to their hand.
+[00:19:14] Astronero removes 3 yellow counter(s) from Saproling Token (now 5).
+[00:19:15] Astronero plays Crosis's Charm from their hand.
+[00:19:20] Astronero points from their Crosis's Charm to AmeisingEO's Ashnod's Altar.
+[00:19:31] AmeisingEO plays Ashnod's Altar from play.
+[00:19:32] Astronero puts Crosis's Charm from the stack into their graveyard.
+[00:19:36] AmeisingEO puts Ashnod's Altar from the stack into their graveyard.
+[00:19:40] Rockysaurus sets counter Life to 9 (-1).
+[00:19:40] Rockysaurus sets counter Life to 8 (-1).
+[00:20:02] Astronero puts Brainsurge from their hand into their graveyard.
+[00:20:04] Astronero moves Arcane Denial from their graveyard to their hand.
+[00:20:11] Astronero creates token: Cormela, Glamour Thief (1/2).
+[00:20:12] AmeisingEO puts Swords to Plowshares into play from their hand.
+[00:20:18] AmeisingEO taps Port Town.
+[00:20:19] Astronero plays Arcane Denial from their hand.
+[00:20:22] Astronero points from their Arcane Denial to AmeisingEO's Swords to Plowshares.
+[00:20:27] Astronero puts Arcane Denial from the stack into their graveyard.
+[00:20:29] AmeisingEO puts Swords to Plowshares from play into their graveyard.
+[00:20:30] Astronero places 1 red counter(s) on Cormela, Glamour Thief (now 1).
+[00:20:31] Astronero places 1 red counter(s) on Cormela, Glamour Thief (now 2).
+[00:20:32] Astronero places 1 red counter(s) on Cormela, Glamour Thief (now 3).
+[00:20:33] Astronero places 1 red counter(s) on Cormela, Glamour Thief (now 4).
+[00:21:54] AmeisingEO destroys Warrior Token .
+[00:21:56] AmeisingEO creates token: Thought Vessel.
+[00:23:51] AmeisingEO destroys Tentacle Token.
+[00:23:54] AmeisingEO changes the PT of Nadir Kraken from 10/11 to 11/12.
+[00:23:57] AmeisingEO creates token: Tentacle Token (1/1).
+[00:23:59] AmeisingEO creates token: Tentacle Token (1/1).
+[00:24:04] AmeisingEO draws 1 card(s).
+[00:24:05] AmeisingEO draws 1 card(s).
+[00:24:08] AmeisingEO taps Thought Vessel.
+[00:24:10] AmeisingEO taps Darkwater Catacombs.
+[00:24:13] AmeisingEO changes the PT of Nadir Kraken from 11/12 to 12/13.
+[00:24:18] AmeisingEO creates token: Tentacle Token (1/1).
+[00:24:20] AmeisingEO creates token: Tentacle Token (1/1).
+[00:24:36] AmeisingEO draws 1 card(s).
+[00:24:37] AmeisingEO draws 1 card(s).
+[00:25:02] Astronero puts Toxic Deluge into play from their hand.
+[00:25:03] Astronero moves Toxic Deluge from play to their hand.
+
+[00:26:37] Astronero's turn.
+
+[00:26:37] Untap
+[00:26:39] Astronero untaps their permanents.
+[00:26:40] Astronero untaps their permanents.
+[00:26:40] Astronero draws 1 card(s).
+[00:26:50] Astronero destroys Saproling Token.
+[00:27:24] Astronero places 5 yellow counter(s) on Saproling Token (now 14).
+[00:27:38] Astronero taps Talisman of Indulgence.
+[00:27:42] Astronero taps Cormela, Glamour Thief.
+[00:27:43] Astronero sets counter Blue to 1 (+1).
+[00:27:44] Astronero sets counter Black to 1 (+1).
+[00:27:44] Astronero sets counter Red to 1 (+1).
+[00:27:48] Astronero taps Steam Vents.
+[00:27:48] Astronero taps Training Center.
+[00:27:48] Astronero taps Island.
+[00:27:48] Astronero taps Mountain.
+[00:27:48] Astronero taps Underground River.
+[00:27:49] Astronero taps Swamp.
+[00:27:55] Astronero taps Sanguine Morass.
+[00:27:57] Astronero taps Luxury Suite.
+[00:27:58] Astronero untaps Luxury Suite.
+[00:27:59] Astronero untaps Sanguine Morass.
+[00:28:00] Astronero taps Sol Ring.
+[00:28:04] Astronero puts Cormela, Glamour Thief from play into their graveyard.
+[00:28:25] Astronero puts Brainstorm into play from their graveyard.
+[00:28:27] Astronero moves Brainstorm from play to their hand.
+[00:28:30] Astronero taps Rakdos Signet.
+[00:28:31] Astronero untaps Rakdos Signet.
+[00:28:31] Astronero taps Sanguine Morass.
+[00:28:32] Astronero taps Izzet Signet.
+[00:28:35] Astronero sets counter Red to 2 (+1).
+[00:28:37] Astronero puts Brainstorm into play from their hand.
+[00:28:59] Astronero points from their Ashmouth Dragon to AmeisingEO.
+[00:29:03] AmeisingEO sets counter Life to 12 (-1).
+[00:29:03] AmeisingEO sets counter Life to 11 (-1).
+[00:29:07] Astronero puts Brainstorm from play into their graveyard.
+[00:29:09] Astronero draws 1 card(s).
+[00:29:10] Astronero draws 1 card(s).
+[00:29:10] Astronero draws 1 card(s).
+[00:29:14] AmeisingEO sets counter Black to 2 (+1).
+[00:29:14] AmeisingEO sets counter Black to 3 (+1).
+[00:29:14] AmeisingEO sets counter Black to 2 (-1).
+[00:29:14] AmeisingEO sets counter Black to 1 (-1).
+[00:29:14] AmeisingEO sets counter Black to 0 (-1).
+[00:29:21] Astronero puts a card from their hand on top of their library.
+[00:29:22] Astronero puts a card from their hand on top of their library.
+[00:29:27] Astronero taps Luxury Suite.
+[00:29:28] Astronero untaps Luxury Suite.
+[00:29:29] Astronero taps Luxury Suite.
+[00:29:30] Astronero taps Cormela, Glamour Thief.
+[00:29:31] Astronero sets counter Red to 3 (+1).
+[00:29:31] Astronero sets counter Black to 2 (+1).
+[00:29:32] Astronero sets counter Blue to 2 (+1).
+[00:30:05] Astronero sets counter Green to 0 (-1).
+[00:30:09] Astronero removes 1 yellow counter(s) from Saproling Token (now 13).
+[00:30:10] Astronero taps Mountain.
+[00:30:10] Astronero taps Rakdos Signet.
+[00:30:13] Astronero puts Perplex into play from their hand.
+[00:30:20] Astronero puts Perplex from play into their graveyard.
+[00:30:22] Astronero is looking at their library.
+[00:30:33] Astronero moves a card from their library to their hand.
+[00:30:45] Astronero shuffles their library.
+[00:30:48] Astronero removes 1 yellow counter(s) from Saproling Token (now 12).
+[00:30:50] Astronero removes 1 yellow counter(s) from Saproling Token (now 11).
+[00:30:51] Astronero removes 1 yellow counter(s) from Saproling Token (now 10).
+[00:30:53] Astronero places 1 yellow counter(s) on Saproling Token (now 11).
+[00:30:54] Astronero places 1 yellow counter(s) on Saproling Token (now 12).
+[00:30:55] Astronero places 1 yellow counter(s) on Saproling Token (now 13).
+[00:30:57] Astronero sets counter Red to 2 (-1).
+[00:30:57] Astronero sets counter Red to 1 (-1).
+[00:30:58] Astronero sets counter Red to 0 (-1).
+[00:30:59] Astronero plays Chaos Warp from their hand.
+[00:31:01] Astronero points from their Chaos Warp to Rockysaurus's Ardenn, Intrepid Archaeologist.
+[00:31:23] Rockysaurus unattaches Loxodon Warhammer.
+[00:31:23] Rockysaurus unattaches Cranial Plating.
+[00:31:23] Rockysaurus unattaches Sword of Vengeance.
+[00:31:30] Rockysaurus puts Ardenn, Intrepid Archaeologist from play onto the bottom of their library.
+[00:31:35] Rockysaurus shuffles their library.
+[00:31:37] Rockysaurus puts Blasphemous Act into play from the top of their library.
+[00:31:50] Rockysaurus puts Blasphemous Act from play on top of their library.
+[00:32:04] Astronero points from their Ashmouth Dragon to Rockysaurus.
+[00:32:06] Beginning of Combat
+[00:32:07] Rockysaurus sets counter Life to 7 (-1).
+[00:32:07] Rockysaurus sets counter Life to 6 (-1).
+[00:32:17] Astronero puts Chaos Warp from the stack into their graveyard.
+[00:32:22] Astronero taps Arbor Elf.
+[00:32:24] Astronero taps Shroofus Sproutsire.
+[00:32:26] Astronero untaps Luxury Suite.
+[00:32:28] Astronero taps Ashmouth Dragon.
+[00:32:32] Astronero taps Saproling Token.
+[00:32:34] Astronero points from their Saproling Token to Rockysaurus.
+[00:32:36] Astronero points from their Shroofus Sproutsire to Rockysaurus.
+[00:32:37] Astronero points from their Ashmouth Dragon to AmeisingEO.
+[00:32:48] Rockysaurus has conceded the game.
+[00:32:56] AmeisingEO points from their Exalted Sunborn to Astronero's Ashmouth Dragon.
+[00:33:46] Astronero plays Worst Fears from the top of their library.
+[00:33:48] Astronero points from their Worst Fears to AmeisingEO.
+[00:33:55] AmeisingEO draws 1 card(s).
+[00:33:57] AmeisingEO plays Swamp from their hand.
+[00:33:59] AmeisingEO sets counter Life to 12 (+1).
+[00:33:59] AmeisingEO sets counter Life to 13 (+1).
+[00:33:59] AmeisingEO sets counter Life to 14 (+1).
+[00:33:59] AmeisingEO sets counter Life to 15 (+1).
+[00:34:00] Astronero destroys Ashmouth Dragon.
+[00:34:00] Astronero creates token: Smoldering Egg (0/4).
+[00:34:00] Astronero puts Smoldering Egg from play into their graveyard.
+[00:34:01] AmeisingEO sets counter Life to 14 (-1).
+[00:34:07] AmeisingEO sets counter Life to 6 (-8).
+[00:34:13] Astronero moves Worst Fears from the stack to their hand.
+[00:34:14] AmeisingEO moves Swamp from the stack to their hand.
+
+[00:34:17] AmeisingEO's turn.
+
+[00:34:17] Untap
+[00:34:19] AmeisingEO untaps their permanents.
+[00:34:21] Astronero has conceded the game.
+[00:36:15] Astronero has lost connection to the game.
