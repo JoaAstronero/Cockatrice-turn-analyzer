@@ -1,4 +1,4 @@
-# cockatrice-turn-analizer
+# cockatrice-turn-analyzer
 
 Small SPA to analyze player turn durations from Cockatrice/Tontis logs. Paste or upload a log and get per-player stats, outlier detection and visual timelines.
 
